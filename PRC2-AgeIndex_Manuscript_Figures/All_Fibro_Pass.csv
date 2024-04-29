@@ -1,0 +1,6 @@
+﻿SampleID,Tissue,Condition,Replicate,bamReads,ControlID,bamControl,Peaks,PeakCaller
+IP_N1P2,Foreskin,1,1,IP_N1P2_s_dedup.bam,Inp_N1P2,Inp_N1P2_s_dedup.bam,N1P2_peaks.narrowPeak,bed
+IP_N2P2,Foreskin,1,2,IP_N2P2_s_dedup.bam,Inp_N2P2,Inp_N2P2_s_dedup.bam,N2P2_peaks.narrowPeak,bed
+IP_O1P2,HDF,1,1,IP_O1P2_s_dedup.bam,Inp_O1P2,Inp_O1P2_s_dedup.bam,O1P2_peaks.narrowPeak,bed
+IP_O2P2,HDF,1,2,IP_O2P2_s_dedup.bam,Inp_O2P2,Inp_O2P2_s_dedup.bam,O2P2_peaks.narrowPeak,bed
+IP_O3P2,HDF,1,3,IP_O3P2_s_dedup.bam,Inp_O3P2,Inp_O3P2_s_dedup.bam,O3P2_peaks.narrowPeak,bed

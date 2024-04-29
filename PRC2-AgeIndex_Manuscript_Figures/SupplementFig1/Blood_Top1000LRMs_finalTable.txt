@@ -1,0 +1,1001 @@
+seqnames	start	end	width	strand	pr	delta	number	Annotated.gene.symbols	Detected.Features
+chr10	101133620	101137445	3826	*	46.686	0.095	1	TLX1	3UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr10	101130756	101133525	2770	*	44.417	0.089	2	TLX1, TLX1NB	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr17	48581540	48582640	1101	*	42.656	0.083	3	HOXB3, MIR10A, HOXB-AS3, HOXB6, AC103702.1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr10	100735213	100736180	968	*	41.714	0.101	4	PAX2	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr16	56637934	56638735	802	*	41.061	0.103	5	MT1A	5UTRs, cpg_islands, cpg_shores, exons, firstexons, promoters
+chr8	22690466	22690518	53	*	40.25	0.432	6	EGR3, LOC107986925, AC055854.1	3UTRs, cpg_islands, exons, introns, lncrna_gencode
+chr12	54046245	54048203	1959	*	39.768	0.106	7	HOXC4	cpg_islands, cpg_shores, exons, introns
+chr10	101221007	101230603	9597	*	39.743	0.084	8	LBX1, LBX1-AS1	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr5	55222730	55223858	1129	*	39.344	0.114	9	MCIDAS	cpg_islands, cpg_shores, exons, introns
+chr17	48596170	48598853	2684	*	39.23	0.043	10	HOXB6, HOXB-AS3	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr7	27154863	27159195	4333	*	39.127	0.031	11	HOXA7, HOXA-AS3, AC004080.4	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr16	56634798	56636918	2121	*	39.066	0.092	12	MT1JP	cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr10	99532237	99536533	4297	*	38.923	0.012	13	NKX2-3	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, intergenic, introns, promoters
+chr15	45116104	45117428	1325	*	37.85	0.095	14	DUOXA1, DUOXA2	3UTRs, cpg_islands, cpg_shores, exons, introns
+chr5	135037617	135041802	4186	*	37.782	0.101	15	EPIST, PITX1-AS1, C5orf66, C5orf66-AS1	cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr17	48633599	48634314	716	*	37.77	0.07	16	HOXB-AS4, HOXB7	cpg_islands, cpg_shores, introns, lncrna_gencode, promoters
+chr17	49971324	49973696	2373	*	37.062	0.069	17	DLX4	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr2	218870935	218874020	3086	*	37.011	0.097	18	WNT6	3UTRs, cpg_islands, cpg_shores, exons, introns
+chr7	27102049	27104098	2050	*	36.629	0.161	19	HOXA2	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr11	64291231	64293002	1772	*	36.567	0.031	20	KCNK4, KCNK4-TEX40, AP001453.3	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr1	147077305	147081149	3845	*	35.719	-0.295	21		cpg_islands, cpg_shores, exons, firstexons, intergenic, promoters
+chr1	47433298	47434612	1315	*	35.634	0.541	22	FOXD2-AS1	cpg_islands, cpg_shores, exons, firstexons, lncrna_gencode
+chr9	122217737	122220659	2923	*	35.267	0.182	23	LHX6	cpg_islands, cpg_shores, introns
+chr17	61395621	61406766	11146	*	35.213	0.079	24	TBX2, LOC101927855, TBX2-AS1, AC005746.2	3UTRs, 5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr2	176151183	176153143	1961	*	34.983	0.083	25	HOXD4, HOXD3	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr21	33033086	33033425	340	*	34.949	0.303	26	AP000282.1	cpg_islands, cpg_shores, introns, lncrna_gencode
+chr19	13011769	13014649	2881	*	34.816	0.111	27	NFIX, LOC107985286, AC138474.1	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr22	19754933	19757581	2649	*	34.767	0.047	28	TBX1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr13	27916746	27930664	13919	*	34.47	0.085	29	PDX1, PLUT	3UTRs, 5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr6	1387254	1395001	7748	*	34.31	0.061	30	FOXF2, MIR6720	3UTRs, 5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr22	19758632	19758696	65	*	34.133	0.108	31	TBX1	cpg_islands, introns, promoters
+chr16	86578623	86580050	1428	*	33.821	0.072	32	FOXL1	3UTRs, 5UTRs, cpg_islands, exons, firstexons
+chr17	48607753	48607991	239	*	33.752	0.474	33	HOXB7	3UTRs, cpg_islands, cpg_shores, exons
+chr11	44303201	44306539	3339	*	33.676	0.066	34	ALX4	cpg_islands, cpg_shores, enhancers_fantom, introns
+chr10	101122765	101124388	1624	*	33.669	0.052	35	TLX1NB	cpg_islands, cpg_shores, introns, lncrna_gencode
+chr7	27098100	27099078	979	*	33.438	0.518	36	HOTAIRM1	cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr11	32430614	32430659	46	*	33.351	0.013	37	WT1	5UTRs, cpg_islands, exons, firstexons, introns
+chr3	128485966	128493801	7836	*	33.291	0.009	38	GATA2, GATA2-AS1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr7	27163478	27174764	11287	*	33.25	0.022	39	HOXA10, HOXA10-HOXA9, HOXA9, HOXA10-AS, MIR196B	3UTRs, 5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr2	70903752	70908781	5030	*	33.199	0.227	40	ATP6V1B1, VAX2	cpg_islands, cpg_shores, introns
+chr4	173505844	173510268	4425	*	33.081	0.213	41	LOC101928409, AC093849.2	cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr8	22047657	22048061	405	*	32.948	0.413	42	FGF17, DMTN	cpg_islands, cpg_shores, exons, introns, promoters
+chr1	110067527	110070974	3448	*	32.587	0.108	43	ALX3, STRIP1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr2	176154291	176166438	12148	*	32.482	0.124	44	HOXD3, HAGLR, AC009336.1	5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr2	218979632	218986459	6828	*	32.394	0.04	45	FEV, LINC00608	3UTRs, 5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr9	130659155	130667264	8110	*	32.298	0.05	46	PRDM12	5UTRs, cpg_islands, cpg_shores, exons, firstexons, intergenic, introns, promoters
+chr11	32432669	32440129	7461	*	32.23	0.065	47	WT1, WT1-AS	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr11	124759345	124760490	1146	*	32.223	0.167	48	ESAM-AS1, ESAM, AP000866.2	cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode
+chr12	54030193	54031835	1643	*	32.131	0.041	49	HOXC6, HOXC4, HOXC5, AC012531.2	3UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, introns, lncrna_gencode
+chr4	4863527	4873607	10081	*	32.115	0.076	50	MSX1	3UTRs, cpg_islands, cpg_shores, exons, intergenic
+chr7	27191267	27194867	3601	*	31.866	0.079	51	HOXA13, AC004080.2	3UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr18	22164826	22172358	7533	*	31.691	0.108	52	GATA6, GATA6-AS1	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr10	117131088	117135053	3966	*	31.684	0.072	53	VAX1	3UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, introns
+chr5	173242171	173246721	4551	*	31.588	0.091	54		cpg_islands, cpg_shores, exons, firstexons, intergenic, promoters
+chr2	45003698	45006712	3015	*	31.545	0.107	55	SIX2	3UTRs, cpg_islands, cpg_shores, exons, intergenic, introns
+chr13	27973450	27981194	7745	*	31.543	0.12	56	URAD	3UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, intergenic, introns
+chr7	27239034	27247123	8090	*	31.498	0.081	57	EVX1, EVX1-AS, AC004080.1	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr17	61451317	61458912	7596	*	31.489	0.138	58	TBX4	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr17	48617335	48619703	2369	*	31.433	0.034	59	HOXB7	cpg_islands, cpg_shores, enhancers_fantom, introns
+chr15	67819505	67830378	10874	*	31.418	0.099	60	SKOR1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr4	8890998	8894837	3840	*	31.194	0.067	61		cpg_islands, cpg_shores, intergenic
+chr12	48977398	48982353	4956	*	31.096	0.017	62	WNT1	3UTRs, 5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr15	45110659	45114860	4202	*	31.05	0.076	63	DUOX2, DUOXA2	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr17	48624665	48627159	2495	*	30.985	0.006	64	HOXB9, HOXB7	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr1	220887472	220888297	826	*	30.977	0.141	65		cpg_islands, cpg_shores, intergenic
+chr3	128485569	128485836	268	*	30.832	0.062	66	GATA2	cpg_shores, exons, introns
+chr16	67162508	67166467	3960	*	30.779	0.086	67	FBXL8, HSF4	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr4	8854055	8879183	25129	*	30.739	0.067	68	HMX1, AC116612.1	3UTRs, 5UTRs, cpg_inter, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr2	70896102	70901965	5864	*	30.709	0.07	69	VAX2, ATP6V1B1	5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr12	54032557	54034924	2368	*	30.527	0.073	70	HOXC5, MIR615, HOXC4, AC012531.2	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr10	100728948	100731658	2711	*	30.449	0.044	71		cpg_islands, cpg_shores, enhancers_fantom, intergenic
+chr8	22129646	22131372	1727	*	30.398	0.038	72	HRURF, HR	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr22	19758789	19761661	2873	*	30.25	0.094	73	TBX1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr10	101120908	101122021	1114	*	30.133	0.053	74	TLX1NB	cpg_shelves, cpg_shores, introns, lncrna_gencode
+chr17	48610044	48616081	6038	*	29.925	0.03	75	HOXB8, HOXB7	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr21	36690783	36711431	20649	*	29.921	0.079	76	SIM2, AP000697.1	5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr17	48601716	48601911	196	*	29.65	0.233	77	HOXB-AS3, HOXB6	cpg_shelves, exons, introns, lncrna_gencode, promoters
+chr16	56632033	56633814	1782	*	29.588	0.111	78	MT1M	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr17	48602153	48602936	784	*	29.503	0.127	79	HOXB-AS3, HOXB6	cpg_inter, cpg_shelves, exons, firstexons, introns, lncrna_gencode, promoters
+chr7	27182964	27189544	6581	*	29.186	0.066	80	HOXA11, HOXA11-AS, AC004080.2	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr18	22176138	22177311	1174	*	29.145	0.122	81	GATA6, AC091588.1	cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr1	3072768	3074389	1622	*	29.107	-0.11	82	PRDM16	cpg_islands, cpg_shores, enhancers_fantom, introns
+chr17	79790614	79793151	2538	*	29.102	0.169	83	CBX8	3UTRs, cpg_islands, exons, intergenic
+chr9	97847551	97858487	10937	*	29.028	0.099	84	FOXE1, PTCSC2	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr1	220891018	220894558	3541	*	28.997	0.182	85		cpg_islands, cpg_shores, intergenic
+chr11	124760569	124760655	87	*	28.97	0.306	86	ESAM, ESAM-AS1, AP000866.2	cpg_shores, introns, lncrna_gencode
+chr1	50415084	50431747	16664	*	28.914	0.086	87	DMRTA2, LOC105378714, AL049637.2	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr5	173228607	173241655	13049	*	28.75	0.095	88	NKX2-5	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, promoters
+chr2	19353279	19360077	6799	*	28.696	0.089	89	OSR1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr17	35498070	35498270	201	*	28.483	0.634	90	SLFN12L, AC015911.11	cpg_inter, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr9	122227933	122229222	1290	*	28.482	0.089	91	LHX6	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr17	48641598	48642924	1327	*	28.467	0.126	92	LOC101060400, AC103702.2	cpg_islands, cpg_shores, introns, lncrna_gencode
+chr10	117530290	117538449	8160	*	28.415	0.07	93	EMX2OS	cpg_inter, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, introns, lncrna_gencode
+chr11	32426622	32429421	2800	*	28.344	0.062	94	WT1	cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr3	129974280	129975935	1656	*	28.299	0.041	95	TRH	5UTRs, cpg_islands, exons, firstexons, introns, promoters
+chr1	47224767	47226426	1660	*	28.274	0.057	96	TAL1, AL135960.1	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr2	218883298	218884157	860	*	28.242	0.067	97	WNT10A	cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr19	13009893	13011736	1844	*	28.214	0.32	98	NFIX	cpg_islands, cpg_shores, introns, promoters
+chr17	48584999	48587216	2218	*	28.163	0.053	99	HOXB-AS3, HOXB3, HOXB6	cpg_inter, cpg_shelves, enhancers_fantom, introns, lncrna_gencode
+chr11	13962438	13964825	2388	*	28.072	0.056	100	SPON1	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr10	75395338	75397339	2002	*	28.068	0.116	101	ZNF503, AC010997.3	cpg_islands, cpg_shores, enhancers_fantom, introns, lncrna_gencode
+chr4	41743710	41753397	9688	*	28.05	0.135	102	PHOX2B, PHOX2B-AS1, AC105389.1, AC105389.3	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr6	1619063	1619265	203	*	28.039	0.231	103		cpg_islands, intergenic
+chr9	93958279	93961964	3686	*	28.039	0.09	104	BARX1-DT	cpg_islands, cpg_shores, enhancers_fantom, exons, intergenic, introns, lncrna_gencode
+chr7	27248872	27253088	4217	*	27.976	0.097	105		cpg_islands, cpg_shelves, cpg_shores, exons, intergenic, introns
+chr10	99536689	99537722	1034	*	27.959	0.045	106		cpg_islands, intergenic
+chr21	33022504	33029734	7231	*	27.939	0.09	107	OLIG2, AP000282.1	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr8	54456766	54460009	3244	*	27.867	0.149	108	SOX17	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr4	80263770	80269080	5311	*	27.786	0.094	109	FGF5	5UTRs, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, introns, promoters
+chr5	135027276	135034925	7650	*	27.768	0.109	110	PITX1, PITX1-AS1, AC008406.3, C5orf66	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr10	99519939	99521168	1230	*	27.701	0.045	111		cpg_islands, cpg_shores, intergenic
+chr7	27147344	27153075	5732	*	27.6	0.037	112	HOXA3, HOXA6, HOXA-AS3, AC004080.5, AC004080.6	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr22	19765182	19768257	3076	*	27.505	0.036	113	TBX1	3UTRs, cpg_islands, cpg_shores, exons, introns
+chr3	62376681	62376961	281	*	27.502	0.108	114		cpg_islands, cpg_shores
+chr6	149963198	149965601	2404	*	27.425	0.021	115	ULBP1	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr5	123098129	123100061	1933	*	27.285	0.118	116	PRDM6	cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr20	62473793	62477004	3212	*	27.254	0.085	117	GATA5	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr16	86565287	86569843	4557	*	27.22	0.09	118	FOXC2, FOXC2-AS1	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr10	100737149	100751173	14025	*	27.212	0.045	119	PAX2	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr4	80201833	80203728	1896	*	27.183	-0.001	120	PRDM8	3UTRs, cpg_islands, cpg_shores, exons, introns
+chr4	173514260	173533365	19106	*	27.175	0.118	121	HAND2, HAND2-AS1, SCRG1	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr6	166165231	166170198	4968	*	27.049	0.075	122	TBXT, LNCDAT	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr7	155371279	155382831	11553	*	27.044	0.061	123	LINC03010, AC008060.1	cpg_islands, cpg_shores, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr17	37741098	37746173	5076	*	27.025	0.076	124	HNF1B	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr6	1376873	1386450	9578	*	26.901	0.048	125	AL034346.1	cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, lncrna_gencode, promoters
+chr13	50127095	50127844	750	*	26.673	0.252	126	DLEU1, AL137060.1	cpg_islands, enhancers_fantom, exons, firstexons, introns, lncrna_gencode
+chr4	80196850	80198306	1457	*	26.666	0.232	127	PRDM8, PRDM8-AS1, AC021127.1	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr8	11691446	11710840	19395	*	26.591	0.07	128	GATA4	5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr10	100723712	100725132	1421	*	26.581	0.092	129		cpg_islands, cpg_shores, intergenic
+chr1	923217	926382	3166	*	26.466	0.006	130	SAMD11	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr11	69816549	69820152	3604	*	26.46	0.05	131	FGF3	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr11	32430791	32430879	89	*	26.456	0.172	132	WT1	5UTRs, cpg_islands, exons, firstexons, introns, promoters
+chr7	27159669	27162109	2441	*	26.416	0.001	133		cpg_islands, cpg_shores
+chr8	96152793	96162154	9362	*	26.341	0.087	134	GDF6	5UTRs, cpg_inter, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr6	1619315	1620692	1378	*	26.135	0.133	135		cpg_islands, intergenic
+chr10	101145360	101147981	2622	*	26.135	0.08	136		cpg_islands, cpg_shores, intergenic
+chr14	101562656	101565868	3213	*	26.078	0.087	137	DIO3, DIO3OS	3UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr10	117136515	117141715	5201	*	26.075	0.128	138	VAX1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr17	48540956	48545011	4056	*	26.007	0.067	139	HOXB2, HOXB-AS1	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr1	3067522	3071587	4066	*	25.993	0.023	140	PRDM16, PRDM16-DT	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr10	93061251	93063857	2607	*	25.987	0.132	141	CYP26C1, CYP26A1, AL358613.3	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr17	48592072	48594408	2337	*	25.888	0.034	142	HOXB5, HOXB-AS3, HOXB6	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr1	47436491	47439778	3288	*	25.847	0.027	143	FOXD2	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, promoters
+chr17	48579994	48580808	815	*	25.781	0.069	144	MIR10A, HOXB-AS3, HOXB3, HOXB6, AC103702.1	cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr16	86492762	86517181	24420	*	25.725	0.048	145	FOXF1, FENDRR	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr5	171306190	171319486	13297	*	25.669	0.085	146	TLX3, AC091980.2	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr20	40682533	40684852	2320	*	25.64	0.066	147		cpg_islands, cpg_shores, enhancers_fantom, intergenic
+chr17	48588920	48590225	1306	*	25.629	0.199	148	HOXB3, HOXB-AS3, HOXB6	5UTRs, cpg_shelves, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr8	736706	739472	2767	*	25.605	0.088	149	DLGAP2, ERICH1, LOC401442, AC100797.5	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr17	80474411	80479267	4857	*	25.562	0.04	150	NPTX1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr15	41511321	41514021	2701	*	25.404	0.087	151	LTK	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr20	40686411	40693366	6956	*	25.376	0.048	152	MAFB	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, promoters
+chr7	155448127	155473510	25384	*	25.367	0.062	153	EN2, AC008060.3	3UTRs, 5UTRs, cpg_inter, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr8	54453233	54456046	2814	*	25.217	0.099	154		cpg_islands, cpg_shores, enhancers_fantom
+chr9	124503097	124505291	2195	*	25.216	0.1	155	NR5A1	5UTRs, cpg_islands, enhancers_fantom, exons, introns
+chr13	27789090	27798076	8987	*	25.179	0.097	156	GSX1	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, intergenic, introns, promoters
+chr19	3357813	3361679	3867	*	25.134	0.009	157	NFIC	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr8	54465581	54468103	2523	*	25.127	0.129	158		cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr10	93065789	93069437	3649	*	25.105	0.079	159	CYP26C1, CYP26A1, AL358613.3	3UTRs, cpg_islands, cpg_shores, exons, introns, lncrna_gencode
+chr10	101214555	101220037	5483	*	25.08	0.065	160		cpg_islands, cpg_shores, intergenic
+chr8	26035937	26053542	17606	*	25.054	0.089	161	EBF2	5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, promoters
+chr19	39247548	39248115	568	*	25.034	0.266	162	IFNL4	cpg_islands, exons, introns
+chr4	4852388	4863221	10834	*	24.961	0.07	163	MSX1	3UTRs, 5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, promoters
+chr10	132784091	132789479	5389	*	24.922	0.086	164	NKX6-2	3UTRs, 5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr13	27966005	27971757	5753	*	24.858	0.08	165	CDX2	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr17	2057880	2058073	194	*	24.759	0.548	166	HIC1	cpg_islands, exons
+chr2	74513073	74516665	3593	*	24.636	0.093	167	TLX2	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr17	2023424	2026310	2887	*	24.627	0.039	168	RTN4RL1, LOC105371486, AC099684.3	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr12	53971994	54018488	46495	*	24.62	0.062	169	HOXC10, HOXC11, HOXC8, HOXC9, HOXC4, HOXC6, HOTAIR, HOXC-AS1, HOXC-AS2, HOXC-AS3, HOXC5, MIR196A2, AC012531.2	3UTRs, 5UTRs, cpg_inter, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr12	54024055	54024386	332	*	24.583	0.11	170	HOXC4, HOXC5, HOXC6, AC012531.2	cpg_inter, introns, lncrna_gencode
+chr7	117322010	117325098	3089	*	24.538	0.081	171	WNT2, LOC105375467, CFTR, AC002465.1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr16	56669336	56670525	1190	*	24.502	0.195	172	MT1H	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr2	74502272	74503821	1550	*	24.438	0.1	173	LBX2, LBX2-AS1, AC005041.3	5UTRs, cpg_islands, exons, firstexons, introns, lncrna_gencode, promoters
+chr1	92482240	92487098	4859	*	24.434	-0.01	174	GFI1	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr1	110083060	110085030	1971	*	24.355	0.026	175	LINC01397	cpg_islands, cpg_shores, enhancers_fantom, exons, introns, lncrna_gencode
+chr17	48576522	48579586	3065	*	24.303	0.003	176	HOXB4, HOXB3, HOXB-AS3, HOXB6	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr1	179742411	179744569	2159	*	24.301	0.102	177	FAM163A, AL359853.3	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr17	48742977	48755612	12636	*	24.292	0.119	178		cpg_inter, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, intergenic
+chr1	220878078	220881639	3562	*	24.277	0.038	179	MTARC1, HLX, HLX-AS1	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr17	35486959	35488703	1745	*	24.259	0.053	180	SLFN12L, AC015911.11	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr17	48564271	48564675	405	*	24.243	-0.073	181	HOXB-AS3, HOXB3	cpg_islands, introns, lncrna_gencode
+chr7	27195355	27208200	12846	*	24.234	0.07	182	HOXA13, HOTTIP	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr16	55327616	55332465	4850	*	24.2	0.089	183	IRX6, AC109462.1, AC109462.2	3UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr2	113274034	113278511	4478	*	24.131	0.153	184	PAX8, PAX8-AS1	5UTRs, cpg_islands, cpg_shores, exons, introns, lncrna_gencode
+chr10	117539186	117554590	15405	*	24.112	0.079	185	EMX2, EMX2OS	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr20	2749805	2749954	150	*	24.093	0.381	186	EBF4	cpg_islands, exons, introns
+chr12	57619357	57622254	2898	*	24.088	0.064	187	SLC26A10P, ARHGEF25, AC025165.1	3UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr2	176145114	176151119	6006	*	24.064	0.107	188	MIR10B, HOXD3, HOXD4	cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, introns, promoters
+chr10	99527915	99531579	3665	*	24.054	0.036	189	LINC01475, AL513542.1	cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr14	74239029	74244438	5410	*	23.998	0.075	190	VSX2	5UTRs, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, introns, promoters
+chr11	101126425	101130155	3731	*	23.911	0.121	191	PGR, PGR-AS1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr19	12994968	12996644	1677	*	23.869	0.022	192	NFIX	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr5	146335963	146346639	10677	*	23.847	0.11	193	POU4F3, RBM27, LOC105378213, AC011396.2	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr2	66443926	66444346	421	*	23.827	-0.124	194	MEIS1, MEIS1-AS2	cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr17	81340931	81342174	1244	*	23.799	0.16	195	AC027601.6	cpg_islands, cpg_shores, exons, firstexons, lncrna_gencode
+chr2	176187087	176190442	3356	*	23.793	0.048	196	HOXD1, HAGLR, MIR7704, AC009336.2	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr4	1401788	1409482	7695	*	23.766	0.085	197	NKX1-1	cpg_islands, cpg_shores, exons, firstexons, intergenic, introns, promoters
+chr17	36931411	36946669	15259	*	23.609	0.088	198	LHX1, LHX1-DT, AC243773.1	3UTRs, 5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr12	53925677	53971047	45371	*	23.608	0.082	199	HOXC12, HOXC13, HOTAIR, HOXC13-AS	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr10	93060322	93061051	730	*	23.545	0.38	200	CYP26C1, AL358613.1	5UTRs, cpg_islands, exons, firstexons, lncrna_gencode, promoters
+chr22	49848122	49850077	1956	*	23.53	0.066	201		cpg_islands, enhancers_fantom
+chr2	20664674	20667901	3228	*	23.501	0.044	202	GDF7	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr5	1873280	1888399	15120	*	23.464	0.056	203	IRX4, CTD-2194D22.4, IRX4-AS1, AC025183.1, AC025183.2	3UTRs, 5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr11	122975245	122980925	5681	*	23.379	0.106	204	BSX	3UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, intergenic, introns
+chr7	1227618	1250217	22600	*	23.283	0.09	205	UNCX	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, promoters
+chr20	21698285	21717389	19105	*	23.26	0.075	206	PAX1, LINC01726	3UTRs, 5UTRs, cpg_inter, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr10	123132277	123151770	19494	*	23.252	0.089	207	HMX2, HMX3	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, intergenic, introns, promoters
+chr20	62477509	62478606	1098	*	23.243	0.017	208	AL499627.2	cpg_shores, exons, firstexons, lncrna_gencode, promoters
+chr1	35573147	35573714	568	*	23.193	0.165	209	TFAP2E, TFAP2E-AS1, AC004865.2	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr17	9020562	9024714	4153	*	23.165	0.042	210	NTN1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr12	54172933	54173866	934	*	23.161	0.004	211	SMUG1	cpg_inter, exons, firstexons, introns, promoters
+chr2	20669346	20670319	974	*	23.12	0.319	212	GDF7	cpg_islands, cpg_shores, introns
+chr10	100824531	100831208	6678	*	23.098	0.044	213	PAX2	3UTRs, cpg_islands, cpg_shores, exons, intergenic, introns
+chr9	93944570	93956219	11650	*	23.064	0.061	214	BARX1, BARX1-DT	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr11	16610334	16614739	4406	*	22.936	0.122	215	SOX6, LOC105376571	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr15	41501199	41503517	2319	*	22.902	0.101	216	ITPKA	3UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr17	61459926	61463002	3077	*	22.794	0.071	217	TBX4, AC005901.1	cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, introns, lncrna_gencode
+chr6	37695871	37699466	3596	*	22.674	0.013	218	MDGA1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr9	77011706	77024172	12467	*	22.658	0.092	219	FOXB2	cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, intergenic, promoters
+chr1	47228910	47232690	3781	*	22.655	0.046	220	TAL1, AL135960.1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr10	101137779	101143910	6132	*	22.628	0.081	221	TLX1	3UTRs, cpg_islands, cpg_shelves, cpg_shores, exons, intergenic
+chr4	41877738	41883129	5392	*	22.609	0.102	222	LINC00682, LOC105374426, AC108210.1	cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr1	165350478	165357907	7430	*	22.525	0.062	223	LMX1A	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr7	27094478	27097525	3048	*	22.468	0.079	224	HOXA1, HOTAIRM1	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr1	197904532	197921713	17182	*	22.446	0.095	225	C1orf53, LHX9	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, introns, promoters
+chr5	77844134	77845195	1062	*	22.386	0.092	226	TBCA	cpg_islands, cpg_shores, enhancers_fantom, introns
+chr9	126609753	126615871	6119	*	22.386	0.059	227	LMX1B, LMX1B-DT, AL161908.1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr20	9506320	9509843	3524	*	22.341	0.09	228	LAMP5-AS1	cpg_islands, cpg_shelves, cpg_shores, exons, introns, lncrna_gencode
+chr4	173537350	173539712	2363	*	22.302	0.06	229	HAND2-AS1	cpg_islands, cpg_shores, exons, introns, lncrna_gencode
+chr9	136201388	136202618	1231	*	22.268	0.081	230	LHX3	5UTRs, cpg_islands, exons, firstexons, introns, promoters
+chr1	217133836	217140942	7107	*	22.257	0.093	231	ESRRG	5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr7	27211890	27213819	1930	*	22.239	0.124	232	AC004080.7	cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr17	76074175	76077555	3381	*	22.232	0.095	233	GALR2	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr2	222288066	222314765	26700	*	22.176	0.093	234	LOC122319436, PAX3, CCDC140	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, promoters
+chr5	55221918	55222542	625	*	22.157	0.352	235	MCIDAS	3UTRs, cpg_shores, exons, introns
+chr11	2136490	2146531	10042	*	22.056	0.03	236	IGF2, IGF2-AS, INS-IGF2	5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr2	156329090	156329835	746	*	22.052	0.514	237	NR4A2	cpg_islands, exons, firstexons, introns, promoters
+chr15	41492829	41496106	3278	*	22.046	0.045	238	ITPKA	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr19	39264076	39265623	1548	*	21.988	0.153	239		cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr17	48646122	48647829	1708	*	21.847	0.042	240	LINC02086, LOC101060400, AC103702.2	cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr12	114437127	114452276	15150	*	21.84	0.057	241	LOC105369998	cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, intergenic, introns, promoters
+chr4	107147	108191	1045	*	21.81	0.185	242		cpg_islands, cpg_shores, promoters
+chr4	13520338	13549492	29155	*	21.705	0.088	243	NKX3-2, LINC01097, LINC01096	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr2	172079837	172104652	24816	*	21.699	0.075	244	DLX1, DLX2, METAP1D, DLX2-DT	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr12	49344527	49348094	3568	*	21.664	0.02	245	DNAJC22	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr14	94766772	94776382	9611	*	21.644	0.079	246	GSC, AL121612.2	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr6	108113287	108120659	7373	*	21.64	0.049	247	OSTM1	cpg_islands, cpg_shores, enhancers_fantom, introns
+chr15	74127529	74137465	9937	*	21.636	0.082	248	ISLR2, LOC283731, AC010931.2	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr2	161414221	161428202	13982	*	21.602	0.138	249	TBR1, SLC4A10, AC009487.1, AC009487.3	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr12	54105788	54107795	2008	*	21.592	0.105	250	FLJ12825, FAM242C, AC023794.1	cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr2	19350141	19352238	2098	*	21.561	0.026	251	OSR1	3UTRs, cpg_islands, cpg_shores, exons
+chr11	114058777	114061701	2925	*	21.552	0.01	252	ZBTB16	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr2	176066488	176126310	59823	*	21.551	0.111	253	EVX2, HOXD10, HOXD11, HOXD12, HOXD13, HOXD9, HOXD-AS2	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr3	27712037	27715833	3797	*	21.512	0.124	254	LINC02084	cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, lncrna_gencode, promoters
+chr5	159097112	159101229	4118	*	21.489	0.045	255	EBF1, LINC02202, LOC107986467	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr22	19723072	19724993	1922	*	21.437	0.054	256	GP1BB, SEPT5-GP1BB, SEPTIN5	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, intergenic, introns, promoters
+chr17	1228017	1230397	2381	*	21.412	0.014	257	ABR	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr18	77248742	77252266	3525	*	21.392	0.115	258	GALR1	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr4	185015704	185022605	6902	*	21.377	0.057	259	HELT	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, intergenic, introns, promoters
+chr2	232485418	232488226	2809	*	21.353	0.062	260	ECEL1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr12	1529700	1532004	2305	*	21.304	0.035	261	WNT5B	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr2	118831545	118861160	29616	*	21.263	0.07	262	EN1, LINC01956	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr19	18788152	18791572	3421	*	21.261	0.06	263	COMP	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr7	27220181	27220910	730	*	21.253	0.094	264		cpg_islands, cpg_shores, intergenic
+chr20	21505077	21525216	20140	*	21.25	0.072	265	NKX2-2, NKX2-2-AS1	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr17	9001674	9004762	3089	*	21.132	0.049	266		cpg_islands, cpg_shores, intergenic
+chr11	44308729	44323822	15094	*	21.075	0.068	267	ALX4	5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, promoters
+chr6	99601972	99617009	15038	*	20.985	0.103	268	PRDM13	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, promoters
+chr3	138935829	138940264	4436	*	20.917	0.071	269	LINC01391	cpg_islands, cpg_shores, exons, introns, lncrna_gencode
+chr10	99540175	99541411	1237	*	20.912	-0.039	270		cpg_islands, cpg_shores, enhancers_fantom, intergenic
+chr2	218879682	218881057	1376	*	20.898	0.044	271	WNT10A	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, promoters
+chr2	218892167	218893804	1638	*	20.871	-0.03	272	WNT10A	3UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr19	2289324	2291302	1979	*	20.863	0.05	273	LINGO3, SPPL2B	3UTRs, cpg_islands, cpg_shores, exons, firstexons, introns
+chr7	156999150	157023648	24499	*	20.845	0.052	274	MNX1, MNX1-AS1, MNX1-AS2	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr7	65508435	65510337	1903	*	20.831	0.065	275		cpg_islands, cpg_shores, exons, firstexons, intergenic, promoters
+chr16	56667678	56668447	770	*	20.811	0.131	276	MT1G	5UTRs, cpg_shores, exons, firstexons, introns, promoters
+chr6	1624200	1626674	2475	*	20.787	0.111	277	GMDS	cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr6	105985603	105986517	915	*	20.785	0.191	278		cpg_islands, cpg_shores, enhancers_fantom, intergenic
+chr2	219057226	219061791	4566	*	20.758	0.051	279	IHH, MIR3131	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr11	31796208	31822419	26212	*	20.738	0.086	280	PAX6, RCN1, PAX6-AS1, PAUPAR	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr17	48603688	48604957	1270	*	20.734	0.442	281	HOXB6, HOXB-AS3	5UTRs, cpg_inter, cpg_shelves, exons, firstexons, introns, lncrna_gencode, promoters
+chr3	62377038	62380344	3307	*	20.712	0.126	282		cpg_islands, cpg_shores, enhancers_fantom, intergenic
+chr12	114392740	114415253	22514	*	20.621	0.061	283	TBX5, TBX5-AS1	5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr6	1604165	1615511	11347	*	20.619	0.078	284	FOXC1, FOXCUT	3UTRs, 5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr19	1744478	1768558	24081	*	20.596	0.035	285	ONECUT3, AC005256.1	5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr1	47416145	47417340	1196	*	20.586	0.105	286	FOXE3	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, promoters
+chr6	41371330	41376125	4796	*	20.521	0.07	287		cpg_islands, cpg_shores, enhancers_fantom, intergenic
+chr15	76334799	76347481	12683	*	20.482	0.11	288	ISL2, AC027243.1, AC027243.2	3UTRs, 5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr7	136868211	136871568	3358	*	20.48	0.093	289	CHRM2, LOC349160, AC009264.1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr5	73295673	73304291	8619	*	20.476	0.109	290		cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, intergenic
+chr1	228004302	228009866	5565	*	20.474	0.043	291	WNT3A	5UTRs, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, introns, promoters
+chr17	39595089	39608727	13639	*	20.435	0.083	292	NEUROD2	3UTRs, 5UTRs, cpg_inter, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, promoters
+chr2	238846233	238849886	3654	*	20.42	0.066	293	TWIST2	3UTRs, 5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr5	174730770	174736454	5685	*	20.375	0.101	294	MSX2	3UTRs, cpg_islands, cpg_shores, exons, intergenic
+chr7	27235213	27236254	1042	*	20.363	0.059	295		cpg_islands, cpg_shores, intergenic
+chr18	75204363	75205414	1052	*	20.316	0.269	296	PTGR3	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns
+chr1	156434438	156441066	6629	*	20.265	0.105	297	MIR9-1HG	cpg_inter, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, introns
+chr17	2053373	2057815	4443	*	20.262	0.056	298	HIC1	5UTRs, cpg_islands, exons, firstexons, introns, promoters
+chr14	36502333	36526224	23892	*	20.261	0.09	299	NKX2-1, SFTA3, NKX2-1-AS1, AL132857.1	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr11	118607258	118608916	1659	*	20.255	-0.004	300	PHLDB1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr3	62364631	62376414	11784	*	20.237	0.117	301	FEZF2, PTPRG-AS1	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr4	56655042	56656757	1716	*	20.135	0.034	302	HOPX	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr5	77627663	77646020	18358	*	20.108	0.134	303	OTP	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, promoters
+chr3	129001087	129002458	1372	*	20.074	0	304	EFCC1, CFAP92	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr5	154470310	154487987	17678	*	20.064	0.084	305	HAND1, AC026688.2	3UTRs, 5UTRs, cpg_inter, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr7	97001850	97008056	6207	*	19.955	0.119	306	DLX6, DLX6-AS1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr2	19352917	19353211	295	*	19.936	0.02	307	OSR1	cpg_shores, exons, firstexons, introns
+chr17	79796296	79807143	10848	*	19.925	0.055	308	CBX8, AC100791.2	5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr12	49537577	49540157	2581	*	19.922	0.058	309	KCNH3, AC020612.4	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr5	181058942	181060004	1063	*	19.888	0.102	310	BTNL9	3UTRs, cpg_islands, cpg_shores, exons, introns
+chr2	72913341	72921606	8266	*	19.876	0.052	311	EMX1	5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr11	118609559	118611348	1790	*	19.856	0.012	312	PHLDB1	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr20	63004819	63010946	6128	*	19.797	0.049	313	BHLHE23, LINC01749	3UTRs, 5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr2	74497785	74500079	2295	*	19.769	0.113	314	LBX2	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr2	218988995	218997080	8086	*	19.728	0.044	315	CRYBA2, LINC00608	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr3	196968191	196970227	2037	*	19.701	0.007	316	PIGZ	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr3	137759528	137774087	14560	*	19.597	0.078	317	SOX14, LINC01210	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr7	150799749	150801820	2072	*	19.593	0.131	318	TMEM176A, TMEM176B	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr2	236162241	236175831	13591	*	19.548	0.085	319	GBX2, AC019068.1	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr1	46487779	46494895	7117	*	19.519	0.085	320	DMBX1	5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr10	93566472	93568406	1935	*	19.472	0.081	321	FFAR4	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr20	25081011	25085274	4264	*	19.468	0.079	322	VSX1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr9	126617039	126627251	10213	*	19.4	0.092	323	LMX1B	cpg_inter, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, introns
+chr7	157682500	157694596	12097	*	19.34	0.055	324	PTPRN2	cpg_islands, cpg_shores, enhancers_fantom, exons, introns
+chr9	132578516	132591386	12871	*	19.334	0.094	325	BARHL1	3UTRs, 5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, promoters
+chr8	54469531	54470767	1237	*	19.279	0.087	326		cpg_islands, cpg_shores, enhancers_fantom, exons, intergenic, introns
+chr17	48717555	48735945	18391	*	19.19	0.093	327	HOXB13, PRAC1, PRAC2, LOC105371811, MIR3185, AC091179.1	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr11	8267803	8269191	1389	*	19.179	0.04	328	LMO1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr13	27952962	27955361	2400	*	19.162	0.066	329	LINC00543	cpg_islands, cpg_shores, exons, firstexons, lncrna_gencode, promoters
+chr11	16603953	16608580	4628	*	19.159	0.062	330	SOX6	cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr17	68196120	68201293	5174	*	19.153	0.032	331	ARHGAP27P2	cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, promoters
+chr17	35495730	35496566	837	*	19.071	0.603	332	SLFN12L, AC015911.11	cpg_inter, introns, lncrna_gencode
+chr22	19148686	19151472	2787	*	19.07	0.067	333	GSC2	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr1	118996266	119009560	13295	*	19.06	0.092	334	LOC105378933, AL139420.1, AL139420.2	cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr10	75407257	75409931	2675	*	19.052	0.044	335	LOC101929234, ZNF503-AS2, AC010997.4, AC010997.5	cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr7	27179566	27180211	646	*	19.03	0.135	336	HOXA10, HOXA10-HOXA9	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr1	26045373	26047043	1671	*	19.028	0.052	337	SLC30A2, AL391650.2	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr2	176177764	176179279	1516	*	19.017	0.055	338	HAGLR, HAGLROS	cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr15	96408461	96418272	9812	*	18.992	0.087	339		cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, intergenic
+chr2	176171310	176176250	4941	*	18.98	0.122	340	HOXD3, HAGLR	3UTRs, cpg_islands, cpg_shelves, cpg_shores, exons, introns, lncrna_gencode
+chr22	50603323	50604586	1264	*	18.977	0.157	341	MAPK8IP2	cpg_islands, cpg_shores, exons, firstexons, introns
+chr10	93071378	93076203	4826	*	18.97	0.033	342	CYP26A1, AL358613.2, AL358613.3	3UTRs, 5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr12	53750830	53752242	1413	*	18.962	0.074	343	CISTR, LOC107984525, AC076968.2	cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr18	59218985	59221800	2816	*	18.95	0.071	344	GRP	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr10	23171307	23175586	4280	*	18.909	0.084	345		cpg_islands, cpg_shores, intergenic
+chr2	86788927	86791731	2805	*	18.901	0.082	346	CD8A	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr2	176126673	176138024	11352	*	18.876	0.092	347	HOXD8, HOXD3, HOXD-AS2, LOC401021	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr17	81386494	81387860	1367	*	18.874	-0.007	348	AC110285.5	cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, lncrna_gencode, promoters
+chr14	52267437	52269238	1802	*	18.872	0.029	349	PTGDR	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr3	138948976	138950665	1690	*	18.796	0.062	350	FOXL2NB	3UTRs, cpg_islands, cpg_shores, exons, introns
+chr6	100444513	100469915	25403	*	18.788	0.169	351	SIM1	5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr12	54049328	54055179	5852	*	18.758	0.097	352	HOXC4	5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr8	10729103	10734974	5872	*	18.744	0.075	353	SOX7, LOC102723313, AC105001.1	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr1	18629355	18647486	18132	*	18.742	0.045	354	PAX7	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr5	55226167	55234472	8306	*	18.737	0.034	355	CCNO, MCIDAS, LOC105378973, AC026704.1	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr12	113461826	113481588	19763	*	18.704	0.067	356	LHX5, LHX5-AS1	3UTRs, 5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr10	75399824	75405591	5768	*	18.699	0.05	357	ZNF503, ZNF503-AS2, AC010997.3	5UTRs, cpg_islands, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr1	118979006	118994998	15993	*	18.697	0.141	358	TBX15	5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, promoters
+chr19	3369541	3369725	185	*	18.672	0.275	359	NFIC	cpg_islands, enhancers_fantom, introns
+chr1	224615603	224618708	3106	*	18.652	0.033	360	CNIH3, CNIH3-AS2, AC096537.1	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr13	49219758	49221472	1715	*	18.614	0.101	361	MLNR	cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr1	110606235	110608394	2160	*	18.589	0.04	362	KCNA2	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr19	45217400	45217818	419	*	18.582	-0.066	363	EXOC3L2, MARK4	cpg_islands, cpg_shores, exons, introns
+chr9	37025054	37032256	7203	*	18.548	0.062	364	PAX5	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr6	149987846	149992004	4159	*	18.542	0.034	365		cpg_islands, cpg_shelves, cpg_shores, intergenic
+chr16	56625078	56626478	1401	*	18.533	0.078	366	MT1E	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr2	20670326	20672465	2140	*	18.53	0.334	367	GDF7	3UTRs, cpg_islands, cpg_shores, exons, introns
+chr17	48738069	48740467	2399	*	18.522	0.091	368		cpg_inter, intergenic
+chr1	220876588	220877645	1058	*	18.511	0.102	369	HLX-AS1, MTARC1	cpg_islands, cpg_shores, enhancers_fantom, introns, lncrna_gencode
+chr8	11675916	11688187	12272	*	18.501	0.067	370	GATA4	5UTRs, cpg_inter, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr14	101559554	101561831	2278	*	18.467	0.149	371	DIO3, DIO3OS, MIR1247	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr15	40281855	40283888	2034	*	18.458	0.043	372	ANKRD63, PLCB2	5UTRs, cpg_islands, exons, firstexons, introns, promoters
+chr16	73062750	73067059	4310	*	18.412	0.079	373	ZFHX3	cpg_islands, cpg_shores, enhancers_fantom, introns
+chr12	57626907	57628718	1812	*	18.383	0.119	374	B4GALNT1	3UTRs, cpg_islands, cpg_shores, exons, firstexons, introns
+chr1	181317246	181319472	2227	*	18.372	0.051	375	CACNA1E	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr2	45000323	45003024	2702	*	18.333	0.099	376		cpg_islands, cpg_shores, intergenic
+chr14	36644974	36668106	23133	*	18.306	0.085	377	PAX9, LOC105370455, AL079303.1, AL132857.1	5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr12	126725659	126728032	2374	*	18.294	0.142	378	LINC00943	cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr17	49962851	49967444	4594	*	18.264	0.072	379		cpg_islands, cpg_shores, exons, firstexons, intergenic, promoters
+chr6	149936856	149942626	5771	*	18.244	0.046	380	ULBP2	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, promoters
+chr8	22048349	22049559	1211	*	18.238	0.076	381	FGF17, DMTN	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr14	101456430	101459790	3361	*	18.236	0.09	382	AL049836.2	cpg_islands, cpg_shores, exons, intergenic, introns, lncrna_gencode
+chr11	124758022	124759202	1181	*	18.228	0.116	383	ESAM, ESAM-AS1, AP000866.2	cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr2	44932081	44946580	14500	*	18.196	0.107	384	SIX3, LINC01833, SIX3-AS1	3UTRs, 5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr10	86362968	86367873	4906	*	18.167	0.036	385	GRID1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr15	89401584	89413872	12289	*	18.157	0.068	386	MIR9-3HG	cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns
+chr14	92322349	92324719	2371	*	18.155	0.048	387	SLC24A4	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr17	74935568	74936939	1372	*	18.13	0.089	388	OTOP3	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr10	129956659	129973291	16633	*	18.106	0.092	389	EBF3	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr2	109128017	109130549	2533	*	18.096	0.014	390	SH3RF3, SH3RF3-AS1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr12	54019726	54020244	519	*	18.066	0.119	391	HOXC4, HOXC5, HOXC6, AC012531.1, AC012531.2	cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr11	72239299	72241825	2527	*	18.064	0.03	392	PHOX2A	3UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr9	136195224	136200592	5369	*	18.061	0.008	393	LHX3	3UTRs, cpg_islands, cpg_shelves, cpg_shores, exons, intergenic, introns
+chr13	50128716	50133576	4861	*	18.043	0.071	394	DLEU1	cpg_islands, cpg_shores, enhancers_fantom, introns, lncrna_gencode
+chr1	37633109	37636485	3377	*	18.036	0.055	395	RSPO1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr2	19360705	19364390	3686	*	18.029	0.075	396		cpg_islands, cpg_shores, enhancers_fantom, intergenic
+chr17	79789543	79790578	1036	*	18.007	0.101	397		cpg_islands, cpg_shores, intergenic
+chr5	43037766	43043585	5820	*	17.984	-0.001	398	ANXA2R, ANXA2R-AS1, ANXA2R-OT1, AC025171.1, AC025171.2	3UTRs, 5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr11	129371267	129376823	5557	*	17.969	0.058	399	BARX2	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr7	27130205	27131468	1264	*	17.947	0.255	400	HOXA4, HOXA-AS2, HOXA-AS3, HOXA3, AC004080.6	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr5	73230070	73234795	4726	*	17.938	0.11	401	AC116345.1	cpg_islands, cpg_shores, introns, lncrna_gencode
+chr10	101062443	101063828	1386	*	17.936	0.075	402	KAZALD1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr9	21964081	21971614	7534	*	17.87	0.163	403	CDKN2A, CDKN2A-DT, MTAP	3UTRs, 5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr12	54025134	54030098	4965	*	17.786	0.057	404	HOXC6, HOXC4, HOXC5, AC012531.2	3UTRs, 5UTRs, cpg_inter, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr11	128684771	128687643	2873	*	17.753	0.002	405	FLI1, LOC101929538, LOC105369568, AP001122.1	5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr10	23189074	23206168	17095	*	17.75	0.076	406	C10orf67, PTF1A	3UTRs, 5UTRs, cpg_inter, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, intergenic, introns, promoters
+chr10	8033793	8057891	24099	*	17.72	0.063	407	GATA3, GATA3-AS1, AL390294.1	5UTRs, cpg_inter, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr20	2804873	2805738	866	*	17.709	0.201	408		cpg_inter, intergenic
+chr10	22320017	22322685	2669	*	17.674	0.008	409	COMMD3, BMI1, COMMD3-BMI1	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr1	39671090	39672839	1750	*	17.672	0.094	410	NT5C1A	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr12	48969766	48974443	4678	*	17.651	0.109	411	WNT10B	5UTRs, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, introns, promoters
+chr12	54018641	54019492	852	*	17.586	0.345	412	HOXC4, HOXC5, HOXC6, AC012531.2	cpg_islands, cpg_shores, enhancers_fantom, introns, lncrna_gencode, promoters
+chr10	22474606	22477603	2998	*	17.584	0.145	413	AL513128.2, AL513128.3	cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr3	147404393	147425399	21007	*	17.549	0.134	414	ZIC1, ZIC4, LOC440982	3UTRs, 5UTRs, cpg_inter, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr12	54039029	54040615	1587	*	17.533	-0.066	415	HOXC4	cpg_inter, enhancers_fantom, introns
+chr20	58854203	58855113	911	*	17.528	-0.045	416	GNAS	cpg_islands, exons, firstexons, introns
+chr3	129003392	129004140	749	*	17.495	0.005	417	EFCC1, CFAP92	cpg_islands, cpg_shores, exons, introns, promoters
+chr17	47732971	47734528	1558	*	17.482	0.014	418	TBX21	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr15	45128492	45130144	1653	*	17.479	0.152	419	DUOX1, DUOXA1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr3	138943085	138947801	4717	*	17.475	0.054	420	FOXL2, FOXL2NB, LINC01391	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr2	170711096	170718584	7489	*	17.439	0.057	421	SP5, LINC01124, ERICH2-DT, AC007405.1	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr12	49089250	49093320	4071	*	17.398	0.08	422	DHH, LOC105369759, AC011603.1	3UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr8	23698505	23715934	17430	*	17.371	0.089	423	NKX2-6, LOC101929258, LOC107986930, AC012574.1, AC012574.2	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr18	902692	911899	9208	*	17.365	0.079	424	ADCYAP1, AP000894.2, AP000894.3	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr2	232350864	232352664	1801	*	17.357	0.027	425		cpg_islands, cpg_shores, exons, firstexons, promoters
+chr17	34577416	34583260	5845	*	17.321	0.022	426	TMEM132E, TMEM132E-DT, C17orf102	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr22	45970095	45972777	2683	*	17.315	0.061	427	WNT7B	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr4	173510573	173512853	2281	*	17.3	0.231	428	LOC101928409, AC093849.2	cpg_shelves, cpg_shores, exons, firstexons, intergenic, lncrna_gencode
+chr10	23692899	23696339	3441	*	17.254	0.051	429	KIAA1217	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr5	123085499	123095843	10345	*	17.25	0.083	430	PRDM6, PRDM6-AS1, AC106786.1	5UTRs, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr10	49606029	49615272	9244	*	17.245	0.114	431	SLC18A3, CHAT	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, introns, promoters
+chr6	108156243	108176777	20535	*	17.234	0.102	432	NR2E1, OSTM1, OSTM1-AS1	5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr4	1170980	1172979	2000	*	17.211	0.033	433	LOC100130872, SPON2	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr2	46296462	46300044	3583	*	17.199	0.023	434	EPAS1	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr19	46648155	46649106	952	*	17.183	0.216	435	DACT3	3UTRs, cpg_islands, cpg_shores, exons
+chr7	155802379	155815599	13221	*	17.172	0.045	436	SHH	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, introns, promoters
+chr9	123996515	124023129	26615	*	17.168	0.072	437	LHX2, LHX2-AS1, AC006450.1, AC006450.3	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr17	81803317	81805339	2023	*	17.16	0.041	438	GCGR	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr2	156319766	156323097	3332	*	17.152	0.122	439	AC074099.1	cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr10	22332920	22333748	829	*	17.14	0.072	440	AL158211.2, AL158211.4	cpg_shores, enhancers_fantom, exons, firstexons, lncrna_gencode, promoters
+chr1	170659936	170666274	6339	*	17.122	0.094	441	PRRX1	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr19	41927708	41929574	1867	*	17.115	0.013	442	ARHGEF1, ERFL	3UTRs, 5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr13	112052359	112075677	23319	*	17.112	0.115	443	SOX1, SOX1-OT	3UTRs, 5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr9	110783	118530	7748	*	17.076	0.094	444	FOXD4, LINC01388	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr4	84489939	84504060	14122	*	17.071	0.114	445	NKX6-1	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, promoters
+chr1	61053680	61054495	816	*	17.063	0.094	446	NFIA, LOC105378764, NFIA-AS2	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr8	23726285	23728051	1767	*	17.06	0.092	447	LOC101929258, LOC107986930, AC012574.1, AC012574.2	cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr2	45008016	45014985	6970	*	17.056	0.087	448	SIX2, AC093702.1	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr12	4908622	4911802	3181	*	17.039	0.014	449	KCNA1, LOC100507560, AC005906.2, AC006063.4	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr7	35248263	35262922	14660	*	17.026	0.131	450	TBX20, AC009531.1	5UTRs, cpg_inter, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr5	42990483	42995891	5409	*	16.996	-0.058	451	FLJ32255, LOC105374746, AC008875.2, AC008875.3	cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr6	10405867	10427027	21161	*	16.993	0.1	452	TFAP2A, LOC107986564, TFAP2A-AS1, TFAP2A-AS2, AL138885.2, AL138885.3, AL138885.4	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr11	124862919	124869767	6849	*	16.948	0.078	453	ROBO3	5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr11	124838996	124844227	5232	*	16.891	0.053	454		cpg_islands, cpg_shores, intergenic
+chr12	114674703	114674809	107	*	16.878	0.155	455	TBX3	cpg_islands, exons
+chr6	390932	394292	3361	*	16.842	-0.009	456	IRF4	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr12	71438837	71441417	2581	*	16.825	0.023	457	LGR5, TSPAN8	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr20	22565637	22587384	21748	*	16.79	0.126	458	FOXA2, LINC00261	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr12	54021302	54023780	2479	*	16.785	-0.009	459	HOXC4, HOXC5, HOXC6, AC012531.1, AC012531.2	cpg_inter, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode
+chr6	84759443	84775510	16068	*	16.769	0.098	460	TBX18, AL035694.1	5UTRs, cpg_inter, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr11	32430950	32432024	1075	*	16.73	0.14	461	WT1	cpg_islands, cpg_shores, introns, promoters
+chr12	114664117	114672337	8221	*	16.706	0.048	462	TBX3	3UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, intergenic, introns
+chr10	101047829	101048691	863	*	16.671	0.138	463		cpg_islands, cpg_shores, intergenic
+chr8	22156035	22158498	2464	*	16.634	0.044	464	LGI3, SFTPC	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr21	33069605	33072278	2674	*	16.615	0.016	465	OLIG1, AP000282.1	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr1	156858994	156861433	2440	*	16.608	0.068	466	INSRR, NTRK1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr4	80183540	80185937	2398	*	16.574	0.07	467	PRDM8, PRDM8-AS1, AC021127.1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr17	48628537	48628715	179	*	16.572	0.008	468	HOXB-AS4, HOXB7	cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr2	181677529	181685731	8203	*	16.559	0.11	469	NEUROD1, CERKL, AC013733.2	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr10	114042810	114046162	3353	*	16.547	0.111	470	ADRB1	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, promoters
+chr17	17680986	17683479	2494	*	16.545	0	471	RAI1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr19	40567518	40568244	727	*	16.522	0.099	472	SPTBN4	3UTRs, cpg_islands, cpg_shores, exons, introns
+chr9	98943601	98944870	1270	*	16.505	0.069	473	COL15A1, AL136084.3	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr8	22703623	22703794	172	*	16.472	0.514	474	LOC107986926, LOC107986925, AC055854.1, AC105046.2	cpg_islands, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr14	36579340	36591962	12623	*	16.466	0.082	475	NKX2-8, AL132857.1	3UTRs, 5UTRs, cpg_inter, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr9	966988	982748	15761	*	16.425	0.093	476	DMRT1, DMRT3	3UTRs, 5UTRs, cpg_inter, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, promoters
+chr1	61052861	61053303	443	*	16.418	0.421	477	LOC105378764, NFIA, NFIA-AS2	cpg_shores, introns, lncrna_gencode, promoters
+chr16	164130	167816	3687	*	16.397	0.053	478	HBM	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr8	22691134	22696130	4997	*	16.379	0.04	479	EGR3, LOC107986925, AC055854.1	3UTRs, 5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr7	97009551	97028039	18489	*	16.362	0.085	480	DLX5, DLX6, DLX6-AS1	3UTRs, 5UTRs, cpg_inter, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr17	61407968	61413448	5481	*	16.321	0.047	481	TBX2, LINC02875, TBX2-AS1, C17orf82	3UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr17	79836750	79845909	9160	*	16.311	0.031	482	CBX4	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, promoters
+chr12	49335738	49338003	2266	*	16.302	0.135	483	C1QL4	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr10	100712847	100714310	1464	*	16.298	0.091	484		cpg_islands, cpg_shores, intergenic
+chr1	53737487	53739759	2273	*	16.257	0.033	485	GLIS1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr17	48568369	48569237	869	*	16.2	-0.074	486	HOXB-AS3, HOXB3	cpg_inter, cpg_shelves, introns, lncrna_gencode
+chr8	4990970	4995753	4784	*	16.176	0.101	487	CSMD1	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr14	74611207	74612962	1756	*	16.141	0.048	488	LTBP2	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr17	35372826	35375074	2249	*	16.078	-0.006	489	SLFN11	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr15	83282910	83285643	2734	*	16.071	0.104	490	BNC1, AC103876.1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr5	43000522	43000664	143	*	16.067	0.394	491	LOC105374746	cpg_islands, exons
+chr1	24927930	24930805	2876	*	16.067	-0.017	492	RUNX3	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr13	113109554	113111104	1551	*	16.05	0.092	493	F7	cpg_islands, exons, firstexons, introns, promoters
+chr18	57427466	57442534	15069	*	16.021	0.094	494	ONECUT2, AC090340.1	5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr1	90710072	90732237	22166	*	16	0.12	495	BARHL2, AC092805.1	3UTRs, 5UTRs, cpg_inter, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr9	136191569	136195044	3476	*	15.999	0.041	496		cpg_islands, cpg_shores, intergenic
+chr1	154501557	154502963	1407	*	15.979	0.086	497	SHE, TDRD10	5UTRs, cpg_islands, cpg_shores, exons, firstexons, promoters
+chr19	13022528	13024963	2436	*	15.961	0.183	498	NFIX	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr12	114680665	114703983	23319	*	15.96	0.066	499	TBX3, AC026765.2	5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr5	73418298	73421209	2912	*	15.947	0.085	500		cpg_islands, cpg_shores, enhancers_fantom, intergenic
+chr16	54281451	54292382	10932	*	15.934	0.083	501	IRX3, AC018553.1, AC018553.2	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr17	64778379	64779169	791	*	15.92	0.15	502	ARHGAP27P1-BPTFP1-KPNA2P3	cpg_islands, exons, firstexons, introns, lncrna_gencode, promoters
+chr14	105480005	105480147	143	*	15.914	-0.212	503	CRIP2	3UTRs, cpg_shores, exons
+chr5	136191116	136193544	2429	*	15.876	0.065	504	SMIM32	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, intergenic, promoters
+chr20	38719950	38732181	12232	*	15.87	0.072	505	SLC32A1	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, promoters
+chr20	58855339	58856407	1069	*	15.862	-0.019	506	GNAS	cpg_islands, cpg_shores, exons, introns
+chr15	96320198	96370646	50449	*	15.801	0.072	507	NR2F2, LOC101927263, MIR1469, NR2F2-AS1, AC087477.2, AC103746.1	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr15	89398988	89400774	1787	*	15.793	0.061	508	MIR9-3HG	cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr12	48000974	48005460	4487	*	15.762	0.053	509	COL2A1, AC004801.5	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr17	17722492	17725302	2811	*	15.758	0.083	510	RAI1	5UTRs, cpg_islands, cpg_shores, exons, introns
+chr2	70884276	70890084	5809	*	15.724	0.099	511	LINC01143	cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr12	54058825	54061137	2313	*	15.721	0.005	512	FLJ12825, AC023794.1	cpg_islands, cpg_shores, introns, lncrna_gencode
+chr11	76205437	76211277	5841	*	15.717	0.023	513	WNT11, LINC02761, AP000785.2	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr11	117795175	117797524	2350	*	15.666	0.058	514	DSCAML1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr17	74859339	74862455	3117	*	15.656	0.026	515	GRIN2C	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr5	1444563	1446791	2229	*	15.643	0.12	516	SLC6A3	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr10	101048699	101049618	920	*	15.633	0.022	517		cpg_shores, intergenic
+chr10	101231409	101239088	7680	*	15.592	0.096	518	LBX1-AS1	cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr4	54091229	54105086	13858	*	15.59	0.089	519	GSX2, PDGFRA	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr8	98937694	98951823	14130	*	15.575	0.086	520	OSR2, STK3, AC016877.3	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr3	184228811	184231570	2760	*	15.57	0.012	521	VWA5B2	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr9	136202711	136203764	1054	*	15.568	0.075	522	LHX3	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr1	170666301	170671791	5491	*	15.557	0.112	523	PRRX1, Z97200.1	cpg_inter, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr17	79808757	79816062	7306	*	15.554	0.045	524		cpg_islands, cpg_shores, enhancers_fantom, intergenic
+chr17	76584768	76587142	2375	*	15.553	0.013	525	ST6GALNAC2, SNHG16	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr2	222423493	222425724	2232	*	15.548	0.01	526	SGPP2	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr2	218856337	218861490	5154	*	15.538	0.056	527	WNT6	5UTRs, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, introns, promoters
+chr20	64047901	64049978	2078	*	15.508	0.125	528	SOX18, TCEA2	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr6	165660343	165666825	6483	*	15.501	0.061	529	PDE10A	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr22	45973051	45973505	455	*	15.486	0.038	530	WNT7B	cpg_shores, introns, promoters
+chr2	120342078	120349211	7134	*	15.485	0.038	531	INHBB	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr6	108121207	108121982	776	*	15.483	0.101	532	OSTM1	cpg_shores, exons, introns
+chr4	143699774	143701634	1861	*	15.476	0.057	533	FREM3, LOC101927636, LOC105377459, AC107223.1	cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr2	72923793	72927055	3263	*	15.456	0.05	534	EMX1	cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, introns, promoters
+chr1	50968070	50971066	2997	*	15.449	0.024	535	CDKN2C	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr5	3588403	3603394	14992	*	15.44	0.112	536	IRX1, AC016595.1	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr14	38254332	38256814	2483	*	15.435	0.09	537	CLEC14A, LOC112268136, AL355835.1	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr12	49294945	49298165	3221	*	15.433	0.082	538	PRPH, TROAP-AS1, AC125611.4	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr7	27136929	27137449	521	*	15.422	0.102	539	HOXA-AS3, HOXA3, AC004080.6	cpg_shelves, cpg_shores, enhancers_fantom, introns, lncrna_gencode
+chr7	91263347	91265990	2644	*	15.417	0.047	540	FZD1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, promoters
+chr2	38073501	38077802	4302	*	15.415	0.077	541	CYP1B1, CYP1B1-AS1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr15	45117578	45118403	826	*	15.414	0.085	542	DUOXA1, DUOXA2	3UTRs, cpg_shores, exons, introns
+chr15	100917960	100920297	2338	*	15.394	-0.001	543	LRRK1, ALDH1A3-AS1, AC015712.2	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr21	34890624	34891358	735	*	15.361	0.448	544	LOC101928269, RUNX1	cpg_islands, enhancers_fantom, introns, promoters
+chr15	89358443	89379587	21145	*	15.359	0.099	545	MIR9-3, MIR9-3HG, AC133637.1, AC133637.2	cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr16	56617121	56617705	585	*	15.347	0.162	546	MT1L	cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr5	135540901	135545211	4311	*	15.312	0.084	547	SLC25A48	cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, introns
+chr14	88326081	88327005	925	*	15.261	0.043	548	KCNK10	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr2	44951919	44956135	4217	*	15.244	0.052	549	AC012354.1	cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr9	840426	844164	3739	*	15.202	0.119	550	DMRT1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr5	181051988	181055061	3074	*	15.195	0.035	551	BTNL9	3UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr9	122220765	122221582	818	*	15.193	0.253	552	LHX6	5UTRs, cpg_shores, exons, firstexons, introns
+chr5	159104403	159107522	3120	*	15.158	0.074	553	LOC107986467, LINC02202, AC134043.2	cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr10	122463110	122463479	370	*	15.14	0.019	554	HTRA1	cpg_shores, enhancers_fantom, introns
+chr14	60503095	60517233	14139	*	15.135	0.097	555	SIX6, C14orf39, AL049874.3	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr5	93567875	93589100	21226	*	15.125	0.088	556	NR2F1, NR2F1-AS1	5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr17	4738467	4740195	1729	*	15.117	0.019	557	CXCL16, ZMYND15	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr3	172447193	172450216	3024	*	15.09	0.118	558	GHSR	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr11	128692107	128697371	5265	*	15.075	0.014	559	FLI1, SENCR	5UTRs, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr15	52782819	52791797	8979	*	15.051	0.067	560	ONECUT1	3UTRs, 5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr13	20231245	20232755	1511	*	15.048	0.011	561	GJB6	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr15	79089112	79091942	2831	*	15.043	0.049	562	RASGRF1	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr10	22251135	22254063	2929	*	15.023	0.026	563	LOC100130992, AL158211.5	cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, lncrna_gencode, promoters
+chr8	22044298	22044505	208	*	15.01	0.283	564	FGF17	cpg_shelves, introns, promoters
+chr17	49993117	49996274	3158	*	14.998	0.047	565	DLX3	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr11	128903740	128904088	349	*	14.987	0.254	566	KCNJ5, KCNJ5-AS1	cpg_inter, enhancers_fantom, introns
+chr3	27720290	27732150	11861	*	14.977	0.103	567	EOMES	5UTRs, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, intergenic, introns, promoters
+chr5	93591867	93606311	14445	*	14.962	0.138	568	NR2F1, AC106818.1	3UTRs, cpg_inter, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr18	59263256	59276708	13453	*	14.935	0.082	569	CPLX4, RAX	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, intergenic, introns, promoters
+chr7	96995159	97001552	6394	*	14.927	0.104	570	DLX6-AS1	cpg_inter, cpg_shelves, cpg_shores, introns, lncrna_gencode
+chr5	522938	525437	2500	*	14.925	0.086	571	SLC9A3, LOC107986395, AC106772.2	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr17	81959331	81962097	2767	*	14.919	0.033	572	NOTUM	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr16	49274431	49284276	9846	*	14.917	0.054	573	CBLN1, LOC102724859, LOC105371241, AC007614.1, AC044798.3	3UTRs, 5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr11	64299092	64301520	2429	*	14.91	0.031	574	KCNK4, KCNK4-TEX40, CATSPERZ, AP001453.3	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr2	70891655	70891957	303	*	14.877	0.313	575		cpg_shelves, intergenic
+chr12	102954215	102967170	12956	*	14.873	0.081	576	ASCL1, PAH	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, promoters
+chr6	5994001	6000368	6368	*	14.859	0.068	577	NRN1	3UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, intergenic, introns
+chr4	4226027	4228295	2269	*	14.855	0.092	578	OTOP1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr13	25170401	25172217	1817	*	14.818	0.042	579	AMER2, LINC01053	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode
+chr9	113062704	113062931	228	*	14.813	-0.009	580		cpg_islands, cpg_shores
+chr22	41913768	41915642	1875	*	14.797	0.053	581	SHISA8	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr2	218999930	219003631	3702	*	14.796	0.068	582	CFAP65, LOC100129175, MIR375, AC097468.1	3UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr11	64296817	64298542	1726	*	14.776	0.018	583	KCNK4, KCNK4-TEX40, AP001453.3	3UTRs, 5UTRs, cpg_shelves, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr5	32707113	32715040	7928	*	14.771	0.043	584	NPR3	5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr1	939900	943375	3476	*	14.747	-0.01	585	SAMD11	cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr15	32715378	32719667	4290	*	14.711	0.054	586	GREM1, GREM1-AS1, AC090877.2	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr6	98841734	98846126	4393	*	14.704	0.1	587		cpg_islands, cpg_shores, enhancers_fantom, intergenic
+chr1	3393266	3394376	1111	*	14.689	0.077	588	PRDM16	cpg_islands, cpg_shores, enhancers_fantom, introns
+chr14	60636720	60659202	22483	*	14.66	0.079	589	SIX1, SALRNA1	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr6	28769183	28770424	1242	*	14.646	-0.05	590		cpg_inter, intergenic
+chr6	147506663	147510208	3546	*	14.631	0.046	591	SAMD5	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr6	127117744	127122448	4705	*	14.622	0.039	592	RSPO3, LOC105377989, LOC105377993	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr8	37964910	37967367	2458	*	14.613	0.056	593	ADRB3	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr7	1223237	1226046	2810	*	14.601	0.093	594		cpg_islands, cpg_shores, intergenic
+chr1	47432193	47433111	919	*	14.587	0.298	595	FOXD2-AS1	cpg_shores, exons, firstexons, lncrna_gencode
+chr7	132573212	132577802	4591	*	14.584	0.016	596	PLXNA4	5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr6	165985464	165990651	5188	*	14.557	0.023	597	PDE10A, LINC00473, LINC00602	5UTRs, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr4	173500888	173505094	4207	*	14.551	0.204	598		cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, intergenic
+chr21	33018500	33022026	3527	*	14.534	0.054	599	C21orf62-AS1, AP000282.1	cpg_islands, cpg_shores, exons, introns, lncrna_gencode
+chr10	22334462	22334703	242	*	14.509	0.515	600		cpg_islands, enhancers_fantom
+chr2	232386840	232386964	125	*	14.5	0.349	601	ECEL1P2	cpg_islands, exons, firstexons
+chr5	180589819	180591920	2102	*	14.451	0.055	602	SCGB3A1	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, intergenic, introns, promoters
+chr6	105980850	105981798	949	*	14.441	0.027	603		cpg_islands, cpg_shores, enhancers_fantom, intergenic
+chr5	150166810	150167659	850	*	14.425	0.126	604	CDX1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns
+chr6	50835740	50838372	2633	*	14.408	0.04	605	TFAP2B	cpg_inter, exons, introns
+chr1	47443292	47450771	7480	*	14.401	0.097	606		cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, intergenic
+chr1	20551979	20554582	2604	*	14.4	0.055	607	FAM43B	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, promoters
+chr10	116270554	116275302	4749	*	14.398	0.048	608	GFRA1, LOC107984273, AC012470.1	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr8	22066363	22067278	916	*	14.397	0.02	609	DMTN	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr13	20191994	20194862	2869	*	14.354	0.031	610	GJB2, AL138688.1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr6	144007203	144008147	945	*	14.353	-0.222	611	PLAGL1, HYMAI	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr1	31771935	31773059	1125	*	14.328	0.023	612		cpg_islands, cpg_shores, enhancers_fantom, intergenic
+chr20	63101835	63103367	1533	*	14.306	0	613	HAR1A, HAR1B	cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr5	150189539	150190487	949	*	14.292	0.087	614	SLC6A7	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr6	116764754	116765920	1167	*	14.275	0.097	615	FAM162B	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr6	1309680	1317175	7496	*	14.216	0.043	616	FOXQ1	3UTRs, 5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, promoters
+chr5	174717829	174727550	9722	*	14.209	0.084	617	MSX2	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, promoters
+chr2	72142924	72150811	7888	*	14.195	0.065	618	CYP26B1	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr18	47259571	47264870	5300	*	14.186	0.143	619	AC051635.1	cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr1	228646612	228648888	2277	*	14.17	0.032	620	RNA5S17	cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, promoters
+chr19	1466767	1471833	5067	*	14.167	0.039	621	APC2, C19orf25	3UTRs, cpg_islands, cpg_shores, exons, introns
+chr9	99828460	99828842	383	*	14.164	0.531	622	NR4A3, LOC107987011, STX17-AS1	cpg_islands, exons, introns, lncrna_gencode
+chr1	3649466	3653383	3918	*	14.155	0.067	623	TP73, WRAP73	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr17	8002066	8003279	1214	*	14.133	0.077	624	GUCY2D	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr15	67831902	67836731	4830	*	14.129	0.061	625	SKOR1, LOC101929076, AC009292.1, AC009292.2	3UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr21	44930246	44933120	2875	*	14.127	-0.009	626	ITGB2, LINC01547	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr14	105477687	105478823	1137	*	14.119	0.051	627	CRIP2	cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr3	128482687	128485286	2600	*	14.107	0.057	628	GATA2	cpg_shelves, cpg_shores, exons, introns, promoters
+chr6	5084175	5086719	2545	*	14.074	0.065	629	PPP1R3G	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, promoters
+chr8	11714391	11714737	347	*	14.063	-0.041	630	GATA4	cpg_inter, cpg_shelves, introns
+chr4	41864958	41867845	2888	*	14.059	0.118	631		cpg_islands, cpg_shores, intergenic
+chr2	63047153	63061051	13899	*	14.05	0.113	632	OTX1, EHBP1-AS1, AC007098.1	3UTRs, 5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr22	45974471	45979515	5045	*	14.046	0.027	633	WNT7B	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr8	52938372	52942152	3781	*	14.042	0.043	634	NPBWR1	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr9	21993602	21996167	2566	*	14.02	0.04	635	CDKN2A, CDKN2B-AS1, MTAP, AL449423.1	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr1	231160680	231164059	3380	*	14.016	0.092	636	TRIM67	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr6	150036594	150039745	3152	*	13.997	0.047	637		cpg_islands, cpg_shores, intergenic
+chr18	22174653	22175044	392	*	13.976	-0.132	638	GATA6	cpg_shelves, cpg_shores, introns
+chr6	99588401	99594611	6211	*	13.944	0.078	639	TSTD3	cpg_islands, cpg_shelves, cpg_shores, exons, intergenic
+chr18	74456133	74457885	1753	*	13.941	0.04	640	DIPK1C	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr10	104638708	104643247	4540	*	13.918	0.038	641	SORCS3	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr10	75431103	75432055	953	*	13.905	0.065	642	LRMDA, LOC107984293, AC010997.2	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr1	156920348	156921088	741	*	13.893	0.046	643	LRRC71	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr18	498964	501470	2507	*	13.89	0.058	644	COLEC12	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr11	43583021	43584204	1184	*	13.881	0.183	645	HSD17B12, AC068205.1, AC068205.2	cpg_shelves, cpg_shores, introns, lncrna_gencode
+chr5	6448640	6450552	1913	*	13.856	0.069	646	UBE2QL1	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr9	72887	74101	1215	*	13.843	0.069	647	WASHC1, PGM5P3-AS1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr6	6001146	6009550	8405	*	13.837	0.066	648	NRN1	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr2	14632034	14635972	3939	*	13.821	0.12	649	LRATD1	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr13	27964452	27965369	918	*	13.815	0.101	650	CDX2	cpg_shores, exons, introns
+chr1	39683764	39684380	617	*	13.812	0.226	651	HPCAL4	cpg_islands, cpg_shores, exons, introns
+chr1	65792048	65794111	2064	*	13.802	0.09	652	PDE4B	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr1	100538755	100540328	1574	*	13.802	0.035	653	GPR88	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, introns
+chr6	1395142	1396343	1202	*	13.79	0.015	654	FOXF2	3UTRs, cpg_shelves, cpg_shores, exons, intergenic
+chr8	143426060	143431742	5683	*	13.774	0.048	655	MAFA	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, introns, promoters
+chr2	199454946	199471790	16845	*	13.771	0.077	656	SATB2, SATB2-AS1	5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr1	6418670	6421027	2358	*	13.758	0.015	657	HES2	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr15	28106363	28108181	1819	*	13.754	-0.002	658		cpg_islands, cpg_shores, intergenic
+chr17	49132301	49133415	1115	*	13.732	0.111	659	B4GALNT2	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr2	232926335	232929142	2808	*	13.731	0.074	660	NGEF	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr10	69567717	69579912	12196	*	13.701	0.05	661	NEUROG3, LOC101929021, AL450311.1	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr1	46485269	46486053	785	*	13.665	0.124	662		cpg_islands, cpg_shores
+chr19	41921069	41921481	413	*	13.63	0.528	663	ARHGEF1, ERFL	cpg_inter, introns
+chr11	20155759	20166262	10504	*	13.63	0.115	664	DBX1	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, intergenic, introns, promoters
+chr6	137491381	137499383	8003	*	13.629	0.094	665	OLIG3	3UTRs, 5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, promoters
+chr3	169666040	169667262	1223	*	13.605	0.073	666		cpg_shelves, cpg_shores, enhancers_fantom
+chr9	22004916	22006793	1878	*	13.601	0.212	667	CDKN2B, CDKN2B-AS1, MTAP	3UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr9	17905484	17907750	2267	*	13.601	0.097	668	ADAMTSL1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr19	18603437	18614072	10636	*	13.588	0.033	669	CRLF1, TMEM59L	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr7	49772497	49776261	3765	*	13.582	0.076	670	VWC2	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr20	21394579	21399615	5037	*	13.578	0.133	671	NKX2-4, LOC105372558, AL158013.1	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr12	57631812	57633807	1996	*	13.562	0.021	672	B4GALNT1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr2	70789322	70790872	1551	*	13.549	0.105	673	FIGLA	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr14	102927779	102930588	2810	*	13.548	0.095	674	AMN	cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr16	67154979	67155733	755	*	13.521	0.068	675	TRADD	5UTRs, cpg_islands, exons, firstexons, introns, promoters
+chr2	45168406	45171317	2912	*	13.516	0.082	676	LINC01121, LOC105374576, AC009236.2, AC093833.1	cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr4	110609314	110641976	32663	*	13.514	0.112	677	PITX2, PANCR	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr12	54037465	54037805	341	*	13.511	-0.023	678	HOXC4	cpg_shelves, introns, promoters
+chr17	45893880	45898216	4337	*	13.467	0.03	679	MAPT, MAPT-AS1, MAPT-IT1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr4	54225231	54234989	9759	*	13.46	0.063	680	PDGFRA	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr2	218896374	218899499	3126	*	13.416	0.031	681		cpg_islands, cpg_shores, enhancers_fantom, exons, introns
+chr5	76081819	76085410	3592	*	13.415	0.025	682	SV2C, SV2C-AS1, AC026774.1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr18	12253202	12254920	1719	*	13.412	0.064	683	CIDEA	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr10	91162145	91164299	2155	*	13.401	0	684	PCGF5	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr4	48489647	48491474	1828	*	13.383	0.134	685	ZAR1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr9	96027280	96027929	650	*	13.374	0.059	686	LINC00092, LOC105376159, ERCC6L2	cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode
+chr19	50666184	50669024	2841	*	13.355	0.125	687	SHANK1	cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr2	174325946	174345521	19576	*	13.345	0.087	688	SP9, LINC01305, AC018470.1	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr10	8059220	8062248	3029	*	13.336	0.013	689	GATA3	cpg_shelves, cpg_shores, enhancers_fantom, introns
+chr11	124761491	124763515	2025	*	13.336	0.006	690	ESAM, ESAM-AS1, AP000866.2	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr5	320361	322786	2426	*	13.334	0.066	691	AHRR, PDCD6-AHRR	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr3	13878028	13881073	3046	*	13.306	0.022	692	WNT7A	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr1	40315283	40317529	2247	*	13.297	0.04	693	COL9A2	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr1	112509626	112509750	125	*	13.268	0.606	694	WNT2B	cpg_islands, cpg_shores, introns
+chr12	130157454	130165959	8506	*	13.237	0.068	695	FZD10, FZD10-AS1	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr9	84667632	84670955	3324	*	13.231	0.048	696	NTRK2	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr12	119593239	119596560	3322	*	13.221	0.03	697	TMEM233, LOC105370027, AC002070.1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr2	104842347	104868616	26270	*	13.2	0.075	698	POU3F3, LINC01159, PANTR1, AC018730.1	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr13	24745683	24748579	2897	*	13.195	0.033	699	RNF17, AL391560.2	cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr10	22334753	22346067	11315	*	13.174	0.107	700	SPAG6, AL158211.3	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr5	37834205	37841590	7386	*	13.15	0.063	701	GDNF, GDNF-AS1, LINC02110	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr13	27960030	27962746	2717	*	13.136	0.042	702	CDX2	3UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, intergenic
+chr4	46992423	46994429	2007	*	13.136	0.036	703	GABRA4, GABRB1	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr10	127738640	127738725	86	*	13.123	0.301	704	FOXI2	cpg_islands, exons
+chr6	10380831	10396558	15728	*	13.117	0.099	705	TFAP2A	3UTRs, cpg_inter, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, intergenic, introns
+chr2	66431868	66440969	9102	*	13.107	0.033	706	MEIS1, MEIS1-AS2, MEIS1-AS3	5UTRs, cpg_inter, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr17	74922471	74925171	2701	*	13.106	0.052	707	OTOP2, USH1G	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr9	34587841	34593445	5605	*	13.104	0.037	708	CNTFR	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr8	54464714	54465455	742	*	13.091	0.167	709		cpg_shores
+chr8	37694346	37699076	4731	*	13.088	0.035	710	ZNF703	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr22	19717818	19719362	1545	*	13.062	0.007	711	SEPT5-GP1BB, SEPTIN5	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr10	122460771	122463049	2279	*	13.049	0.006	712	HTRA1, LOC105378525, BX842242.1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr6	28765231	28768707	3477	*	13.014	0.037	713		cpg_inter, intergenic
+chr4	20250859	20256074	5216	*	12.99	0.117	714	SLIT2	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr6	98823630	98840649	17020	*	12.983	0.063	715	POU3F2, AL589826.2	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr12	1532137	1532398	262	*	12.977	-0.109	716	WNT5B	cpg_shores, enhancers_fantom, introns
+chr4	174211331	174219099	7769	*	12.957	0.09	717	LINC02268	cpg_inter, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr9	36985484	36987338	1855	*	12.91	0.057	718	PAX5	cpg_islands, cpg_shores, introns
+chr8	64574016	64587661	13646	*	12.903	0.084	719	BHLHE22, BHLHE22-AS1, AC090136.3	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr7	27210195	27211019	825	*	12.895	0.12	720	AC004080.7	cpg_shelves, exons, intergenic, introns, lncrna_gencode
+chr11	43941935	43945090	3156	*	12.879	0.006	721	C11orf96, AC087521.1, AC087521.3	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr9	113061254	113062638	1385	*	12.86	0.09	722		cpg_islands, cpg_shores, promoters
+chr10	117157852	117169949	12098	*	12.857	0.057	723	MIR3663, MIR3663HG	cpg_inter, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr19	41912014	41916338	4325	*	12.851	0.101	724	ERFL, ARHGEF1	5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, introns
+chr2	73175449	73178143	2695	*	12.842	0.028	725		cpg_islands, cpg_shores, enhancers_fantom, intergenic
+chr17	31559944	31559996	53	*	12.802	0.342	726	MIR193A	cpg_islands, enhancers_fantom, exons, firstexons, promoters
+chr17	48555239	48555919	681	*	12.797	0.116	727	HOXB3, HOXB-AS3	5UTRs, cpg_shores, exons, introns, lncrna_gencode
+chr6	75203918	75209320	5403	*	12.776	0.043	728	COL12A1	5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr3	186360778	186362655	1878	*	12.754	0.024	729	DGKG	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr12	106580418	106589331	8914	*	12.746	0.055	730	RFX4, LOC100287944, AC079385.1	5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr13	27955759	27956173	415	*	12.741	0.21	731		cpg_shores, intergenic
+chr12	1629285	1631350	2066	*	12.741	0.076	732	WNT5B	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr20	54172644	54175150	2507	*	12.734	0.049	733	CYP24A1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr18	69400054	69403088	3035	*	12.702	0.058	734	DOK6	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr11	75429705	75431236	1532	*	12.686	0.061	735	KLHL35	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr3	43994594	43999694	5101	*	12.684	0.047	736	AC006058.2, AC006058.3	cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, lncrna_gencode, promoters
+chr4	37243563	37246166	2604	*	12.682	0.066	737	NWD2	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr9	121498002	121500347	2346	*	12.676	0.022	738	GGTA1	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr11	69773720	69775944	2225	*	12.65	0.086	739	FGF4	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr12	63149856	63152576	2721	*	12.632	0.108	740	AVPR1A, AC135584.1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr14	38207590	38211830	4241	*	12.627	0.086	741	SSTR1	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr17	38673041	38675430	2390	*	12.626	0.021	742	EPOP	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, promoters
+chr5	135050129	135050846	718	*	12.62	0.144	743	PITX1-AS1, C5orf66	cpg_islands, cpg_shores, introns, lncrna_gencode
+chr1	86155115	86157156	2042	*	12.62	0.077	744	COL24A1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr10	133234889	133237898	3010	*	12.619	0.069	745	VENTX	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, promoters
+chr11	72243388	72246294	2907	*	12.602	0.103	746	PHOX2A	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr11	20206972	20209229	2258	*	12.6	0.123	747		cpg_inter, intergenic
+chr10	99329028	99330591	1564	*	12.574	0.053	748	CNNM1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, promoters
+chr8	53875523	53883225	7703	*	12.548	0.085	749	RGS20, AC113194.1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr2	176138186	176141029	2844	*	12.542	0.109	750	LOC401021, HOXD3	cpg_islands, cpg_shores, exons, introns
+chr2	172105528	172107251	1724	*	12.521	0.111	751	DLX2-DT	cpg_islands, cpg_shores, exons, introns, lncrna_gencode
+chr7	1663310	1668328	5019	*	12.481	0.021	752	ELFN1	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr1	23423775	23425292	1518	*	12.472	0.048	753	TCEA3	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr6	166005523	166009587	4065	*	12.459	0.076	754		cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, intergenic
+chr1	156420063	156423414	3352	*	12.452	0.061	755	MIR9-1, MIR9-1HG	cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr10	92688936	92692797	3862	*	12.445	0.059	756	HHEX	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr7	128360562	128362302	1741	*	12.442	0.03	757	PRRT4	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr16	2019461	2020978	1518	*	12.437	0.02	758	NPW	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr22	41909804	41911491	1688	*	12.415	0.074	759	SHISA8	cpg_islands, cpg_shores, exons, introns
+chr22	50014653	50015511	859	*	12.414	0.026	760		cpg_islands
+chr5	115179088	115180966	1879	*	12.405	0.06	761	TRIM36	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr2	170812951	170824087	11137	*	12.348	0.052	762	GAD1, ERICH2-DT, AC007405.1, AC007405.2, AC007405.4	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr5	135487250	135492188	4939	*	12.332	0.094	763	SLC25A48	cpg_islands, cpg_shores, enhancers_fantom, introns
+chr10	100709253	100710920	1668	*	12.327	0.067	764		cpg_islands, cpg_shores, intergenic
+chr7	27087828	27089226	1399	*	12.303	0.219	765		cpg_islands, cpg_shores, intergenic
+chr3	184379800	184381916	2117	*	12.27	0.03	766	CHRD, THPO	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr14	53952770	53957127	4358	*	12.249	0.043	767	BMP4, AL138479.2	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr22	32202451	32204868	2418	*	12.247	-0.117	768	RFPL2, SLC5A4-AS1	5UTRs, cpg_inter, exons, firstexons, introns, promoters
+chr1	33306615	33307264	650	*	12.231	0.163	769	A3GALT2	cpg_islands, cpg_shores, exons, promoters
+chr8	22042270	22043442	1173	*	12.221	0.218	770	FGF17	5UTRs, cpg_inter, exons, firstexons, introns, promoters
+chr11	124745858	124747147	1290	*	12.221	-0.043	771	NRGN, AP000866.5	3UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr2	85752920	85755857	2938	*	12.219	0.028	772	ATOH8	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr15	45521616	45523366	1751	*	12.207	0.013	773	SLC30A4, HMGN2P46	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr9	96020724	96023037	2314	*	12.201	0.042	774	LINC00092, ERCC6L2	cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr14	100567056	100569570	2515	*	12.196	0.032	775	BEGAIN	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr16	54927598	54940395	12798	*	12.194	0.073	776	IRX5, CRNDE, LOC105371275, AC106738.1, AC106738.2	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr9	34628240	34629670	1431	*	12.192	0.012	777	ARID3C	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr1	228635376	228635471	96	*	12.189	-0.468	778	RNA5S12	cpg_islands, promoters
+chr12	107843182	107845975	2794	*	12.184	0.09	779	AC126177.3	cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode
+chr7	155532856	155534398	1543	*	12.184	0.048	780	CNPY1, AC009403.2	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr16	1916507	1920022	3516	*	12.183	0.021	781	HS3ST6	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr9	21988773	21990539	1767	*	12.181	0.476	782	CDKN2A, MTAP	cpg_islands, cpg_shores, exons, introns
+chr1	207958822	207960104	1283	*	12.176	0.029	783	LINC02767, AL356275.1	cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr5	135533550	135537458	3909	*	12.164	0.071	784	NEUROG1, SLC25A48	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr1	26161442	26162512	1071	*	12.131	-0.041	785	FAM110D	3UTRs, cpg_islands, cpg_shores, exons
+chr18	62596087	62597014	928	*	12.125	0.08	786		cpg_islands, cpg_shores, enhancers_fantom, intergenic
+chr18	79787871	79788753	883	*	12.117	0.113	787	AC021594.1	cpg_islands, introns, lncrna_gencode
+chr4	173533991	173537204	3214	*	12.106	0.04	788	HAND2-AS1	cpg_shelves, cpg_shores, exons, firstexons, introns, lncrna_gencode
+chr4	1001657	1003641	1985	*	12.105	0.063	789	IDUA	cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr7	27223188	27226024	2837	*	12.083	0.118	790		cpg_islands, cpg_shelves, cpg_shores, intergenic
+chr14	105479234	105479557	324	*	12.063	-0.101	791	CRIP2	cpg_islands, cpg_shores, exons, introns
+chr11	14971831	14976045	4215	*	12.039	0.074	792	CALCA, CALCB	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr11	17718561	17722565	4005	*	12.022	0.087	793	MYOD1	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, intergenic, introns, promoters
+chr5	55220397	55221832	1436	*	12.008	0.081	794	MCIDAS	3UTRs, cpg_islands, cpg_shores, exons, introns
+chr7	129777679	129786692	9014	*	12.006	0.049	795	AC084864.1	cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr16	67158402	67161574	3173	*	11.967	0.011	796	FBXL8, TRADD	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr22	29313226	29316046	2821	*	11.959	0.085	797	RASL10A	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr2	73290733	73294070	3338	*	11.939	0.027	798	EGR4	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, intergenic, introns, promoters
+chr11	31822567	31829402	6836	*	11.917	0.121	799	PAUPAR, PAX6-AS1, RCN1	cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr11	2868073	2870021	1949	*	11.897	0.2	800	KCNQ1DN	cpg_islands, cpg_shores, promoters
+chr1	6423334	6425578	2245	*	11.889	0.022	801	ESPN, HES2	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr16	55323340	55327515	4176	*	11.883	0.108	802	IRX6, AC109462.1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr5	73433611	73452336	18726	*	11.883	0.067	803	FOXD1, FOXD1-AS1, LINC01385	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr15	68430959	68432590	1632	*	11.873	0.019	804	ITGA11	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr4	76896796	76898668	1873	*	11.828	0.047	805	SOWAHB	5UTRs, cpg_islands, cpg_shores, exons, firstexons, promoters
+chr11	124717625	124718755	1131	*	11.821	0.04	806		cpg_islands, cpg_shores, enhancers_fantom, intergenic
+chr6	7725534	7729423	3890	*	11.813	0.015	807	BMP6	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr2	66425397	66427319	1923	*	11.797	0.045	808	MEIS1-AS3	cpg_islands, cpg_shores, enhancers_fantom, exons, intergenic, introns, lncrna_gencode
+chr12	41188025	41190615	2591	*	11.774	0.11	809	PDZRN4	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr1	229430744	229435203	4460	*	11.77	0.114	810	ACTA1	3UTRs, 5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr3	6859964	6864210	4247	*	11.763	0.13	811	GRM7	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr9	98706430	98710120	3691	*	11.758	0.045	812	GABBR2	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr16	86285253	86290088	4836	*	11.757	0.076	813	LINC01081, LINC02135	cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr17	48636149	48636950	802	*	11.745	0.021	814	LOC101060400, AC103702.2	cpg_islands, cpg_shores, exons, introns, lncrna_gencode
+chr3	158094341	158110883	16543	*	11.737	0.105	815	SHOX2, RSRC1	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, intergenic, introns, promoters
+chr1	245152853	245157482	4630	*	11.732	0.015	816	KIF26B	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr6	28770960	28780283	9324	*	11.72	0.059	817		cpg_inter, intergenic
+chr1	50976266	50979020	2755	*	11.716	0.039	818		cpg_islands, cpg_shores, enhancers_fantom, intergenic
+chr3	128497442	128498307	866	*	11.702	-0.035	819	GATA2-AS1	cpg_islands, cpg_shores, enhancers_fantom, introns, lncrna_gencode
+chr5	155727300	155731123	3824	*	11.676	0.077	820		cpg_islands, cpg_shores, enhancers_fantom, intergenic
+chr4	121764233	121765537	1305	*	11.667	0.066	821	SMIM43, PP12613, AC079341.1	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr15	100973072	100974067	996	*	11.665	0.173	822	LRRK1	cpg_islands, exons, introns
+chr6	151807122	151808719	1598	*	11.662	0.036	823	ESR1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr6	37535683	37536721	1039	*	11.66	0.127	824	LINC02520	cpg_islands, cpg_shores, exons, intergenic
+chr5	77971583	77973638	2056	*	11.644	0.161	825		cpg_islands, cpg_shores, intergenic
+chr10	49394452	49399743	5292	*	11.637	0.077	826	DRGX	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr4	154490040	154492765	2726	*	11.621	0.072	827	DCHS2	5UTRs, cpg_islands, cpg_shores, exons, firstexons, promoters
+chr2	172107733	172110232	2500	*	11.62	0.278	828	DLX2-DT	cpg_islands, cpg_shores, exons, intergenic, introns, lncrna_gencode
+chr8	144331601	144335227	3627	*	11.615	0.058	829	SCRT1, SLC52A2	3UTRs, 5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr11	128890365	128892208	1844	*	11.613	0.083	830	KCNJ5	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr4	140497728	140498679	952	*	11.613	0.025	831	MGAT4D, AC093671.1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr6	28764674	28765077	404	*	11.608	0.201	832		cpg_inter, intergenic
+chr10	101066178	101068370	2193	*	11.592	0.049	833	KAZALD1	3UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr19	40512429	40513354	926	*	11.585	0.119	834	SPTBN4	cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr13	78586584	78610044	23461	*	11.582	0.082	835	POU4F1, LOC780529, OBI1-AS1, AL445209.1, RNF219-AS1	3UTRs, 5UTRs, cpg_inter, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr7	289222	291309	2088	*	11.56	0.103	836	FOXL3, FOXL3-OT1	cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr1	68230080	68233333	3254	*	11.542	0.043	837	WLS	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr11	125164284	125167478	3195	*	11.541	0.051	838	PKNOX2, PKNOX2-DT, PKNOX2-AS1	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr11	74730505	74731960	1456	*	11.54	0.066	839	CHRDL2	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr1	156848587	156849399	813	*	11.514	0.083	840	INSRR, NTRK1	cpg_islands, cpg_shores, exons, introns
+chr10	89206443	89208517	2075	*	11.513	0.057	841	CH25H	3UTRs, 5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, promoters
+chr8	31638836	31641110	2275	*	11.512	0.069	842	NRG1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr10	27741143	27748942	7800	*	11.508	0.051	843	MKX, MKX-AS1	5UTRs, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr10	110641288	110644996	3709	*	11.504	0.033	844	RBM20	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr8	26862774	26867516	4743	*	11.483	0.087	845	ADRA1A	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr6	149985295	149985768	474	*	11.48	-0.002	846		cpg_inter, intergenic
+chr1	47707900	47711237	3338	*	11.469	0.024	847		cpg_islands, cpg_shores, intergenic
+chr16	66426263	66429161	2899	*	11.467	0.045	848	BEAN1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr10	42752890	42755553	2664	*	11.453	0.046	849	LOC283028, AL022344.1	cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, lncrna_gencode, promoters
+chr1	156922437	156924638	2202	*	11.445	0.122	850	LRRC71	cpg_islands, cpg_shores, exons, introns
+chr18	79392803	79397087	4285	*	11.437	-0.006	851	NFATC1	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr6	105991893	105996537	4645	*	11.411	0.106	852	PRDM1	5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr6	117260426	117273431	13006	*	11.405	0.062	853	VGLL2, LOC105377964, Z98880.1	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr17	14297243	14297999	757	*	11.402	0.029	854	AC005224.1	cpg_islands, cpg_shores, exons, firstexons, lncrna_gencode, promoters
+chr20	2692158	2694733	2576	*	11.392	0.052	855	EBF4	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr11	20667885	20673019	5135	*	11.389	0.029	856	NELL1, AC090707.1	5UTRs, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr6	41406434	41406687	254	*	11.388	0.249	857	AL136967.2	cpg_shores, exons, firstexons, intergenic, lncrna_gencode
+chr6	133887744	133896657	8914	*	11.383	0.071	858	TCF21, TARID	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr17	39224496	39226255	1760	*	11.365	0.075	859	STAC2	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr2	66444708	66447002	2295	*	11.362	0.095	860	MEIS1	cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr18	31040177	31043298	3122	*	11.359	0.158	861	DSC3	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr4	107033918	107037830	3913	*	11.358	0.06	862	DKK2	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr16	67173791	67174970	1180	*	11.352	0.035	863	NOL3	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr9	72149295	72150005	711	*	11.347	0.095	864	GDA	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr9	37033857	37039246	5390	*	11.329	0.087	865	PAX5	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr14	90060039	90063272	3234	*	11.329	0.018	866	KCNK13	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr20	6051445	6053220	1776	*	11.302	0.069	867	LRRN4	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, introns
+chr20	23047576	23051624	4049	*	11.3	0.045	868	THBD	3UTRs, 5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, promoters
+chr14	100726556	100727894	1339	*	11.286	0.043	869	DLK1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr4	41360069	41362366	2298	*	11.283	0.052	870	LIMCH1	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr14	76375684	76378570	2887	*	11.262	0.028	871	ESRRB	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr3	184603830	184604796	967	*	11.261	0.108	872		cpg_islands, cpg_shores, intergenic
+chr20	56002826	56006257	3432	*	11.258	0.127	873	CBLN4	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr20	3082060	3084020	1961	*	11.257	-0.005	874	AVP	3UTRs, cpg_islands, cpg_shores, exons, intergenic, introns
+chr17	30235013	30236282	1270	*	11.252	0.109	875	SLC6A4	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr19	29524193	29531120	6928	*	11.249	0.03	876	VSTM2B, VSTM2B-DT, AC011474.1, AC011474.2	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr6	50839899	50850496	10598	*	11.235	0.133	877	TFAP2B	3UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, intergenic, introns
+chr8	71841950	71846527	4578	*	11.225	0.067	878	MSC, MSC-AS1	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr3	46881390	46883691	2302	*	11.222	0.036	879	MYL3, PTH1R	5UTRs, cpg_islands, exons, firstexons, introns, promoters
+chr10	127734872	127738203	3332	*	11.218	0.117	880	FOXI2, AL391005.1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr10	133087468	133089015	1548	*	11.215	0.032	881	ADGRA1, ADGRA1-AS1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr18	52339621	52342619	2999	*	11.199	0.088	882	DCC	5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr16	55655411	55657052	1642	*	11.193	0.061	883	SLC6A2	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr18	48135587	48137812	2226	*	11.189	0.053	884	ZBTB7C	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr10	99230486	99237378	6893	*	11.178	0.07	885	HPSE2	5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr17	60138773	60140340	1568	*	11.169	0.086	886	AC025048.1	cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr12	94147951	94150873	2923	*	11.169	-0.003	887	PLXNC1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr12	27968596	27976752	8157	*	11.164	0.076	888	PTHLH, AC008011.2	5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr11	124739492	124740880	1389	*	11.152	-0.001	889	NRGN	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr17	79832264	79833001	738	*	11.139	0.196	890		cpg_islands, intergenic
+chr1	47507822	47509329	1508	*	11.102	0.025	891		cpg_islands, cpg_shores, intergenic
+chr1	181481929	181484328	2400	*	11.089	0.078	892	CACNA1E	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr6	136920391	136923997	3607	*	11.089	0.04	893	SLC35D3	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr19	10513799	10515213	1415	*	11.07	0.096	894	S1PR5	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, introns
+chr16	67393201	67395161	1961	*	11.064	0.061	895	ZDHHC1, TPPP3	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr1	75124566	75139375	14810	*	11.051	0.135	896	LHX8, AC099786.1, AC099786.2	5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr8	11713463	11713930	468	*	11.05	0.006	897	GATA4	cpg_shelves, introns
+chr19	1774814	1777260	2447	*	11.036	0.076	898	ONECUT3	3UTRs, cpg_islands, cpg_shores, exons, introns
+chr4	10461880	10461996	117	*	11.029	0.182	899	AC005599.1	cpg_islands, introns, lncrna_gencode
+chr7	151166879	151169018	2140	*	11.026	0.024	900	GBX1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr2	23384809	23387405	2597	*	11.024	0.016	901	KLHL29	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr17	48526904	48527423	520	*	11.023	0.144	902		cpg_islands, cpg_shores, intergenic
+chr4	84479782	84484754	4973	*	11.02	0.131	903		cpg_islands, cpg_shores, intergenic
+chr19	1465505	1466088	584	*	11.01	-0.04	904	APC2, C19orf25	cpg_islands, exons, introns
+chr5	139902229	139905537	3309	*	11.009	0.083	905	NRG2	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr2	218959057	218964277	5221	*	11.002	0.054	906	CDK5R2, AC097468.2	3UTRs, 5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr18	79797658	79800182	2525	*	11	0.025	907	KCNG2, AC021594.2	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr9	132160930	132164973	4044	*	10.985	0.046	908	NTNG2	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr2	44924077	44931701	7625	*	10.974	0.13	909	LINC01833, AC012354.3	cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr16	56662658	56663563	906	*	10.972	0.05	910		cpg_islands, cpg_shores, intergenic
+chr14	37622077	37622988	912	*	10.963	0.161	911	TTC6	cpg_islands, cpg_shores, exons
+chr12	5429918	5434274	4357	*	10.95	0.06	912	NTF3	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr16	89576517	89576641	125	*	10.949	0.268	913	CPNE7	cpg_islands, introns
+chr1	37752325	37754557	2233	*	10.938	0.029	914	EPHA10	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr10	101126652	101127377	726	*	10.932	0.233	915	TLX1NB	cpg_shelves, exons, introns, lncrna_gencode
+chr2	225040663	225042957	2295	*	10.926	-0.005	916	DOCK10	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr9	133274682	133276237	1556	*	10.917	0.023	917	ABO	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr12	57215258	57217893	2636	*	10.909	0.005	918	NXPH4	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr6	26613484	26614843	1360	*	10.907	0.117	919		cpg_islands, cpg_shores, promoters
+chr6	137486311	137490948	4638	*	10.901	0.093	920		cpg_islands, cpg_shores, intergenic
+chr4	41872935	41876409	3475	*	10.893	0.158	921	LINC00682	cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, introns, lncrna_gencode
+chr5	140145740	140146551	812	*	10.886	0.125	922		cpg_islands, cpg_shores, intergenic
+chr10	116741097	116743529	2433	*	10.885	0.044	923	HSPA12A	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr11	43574046	43582944	8899	*	10.875	0.049	924	HSD17B12, MIR129-2, AC068205.1, AC068205.2	cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr16	86575574	86577365	1792	*	10.874	0.043	925		5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr7	64887786	64890031	2246	*	10.869	0.081	926	LOC441239, ZNF273, AC073349.1	cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode
+chr5	132812624	132814624	2001	*	10.858	0.137	927	SOWAHA	5UTRs, cpg_islands, cpg_shores, exons, firstexons, promoters
+chr20	2558074	2559373	1300	*	10.841	0.076	928	TMC2	cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr1	90704824	90709715	4892	*	10.836	0.084	929		cpg_islands, cpg_shores, intergenic
+chr1	228037535	228038392	858	*	10.771	0.065	930	WNT3A	cpg_islands, cpg_shores, introns
+chr12	57764724	57767060	2337	*	10.767	0.051	931	CYP27B1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr3	71784009	71786302	2294	*	10.735	0.063	932	PROK2, LOC105377156, AC096970.1	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr8	37796496	37798702	2207	*	10.713	0.041	933	ADGRA2	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr5	76952885	76954985	2101	*	10.678	-0.038	934	CRHBP	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr4	112508130	112524642	16513	*	10.676	0.064	935	NEUROG2, NEUROG2-AS1, AC023886.1	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, lncrna_gencode, promoters
+chr22	37426516	37428083	1568	*	10.666	0.021	936	ELFN2, FP325335.1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr22	50529598	50532680	3083	*	10.646	0.009	937	ODF3B, TYMP	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr7	5417808	5430347	12540	*	10.629	0.027	938	TNRC18, LINC02983, AC092171.1, AC092171.3, AC092171.4, AC092171.5, AC093620.1	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr20	25056819	25059348	2530	*	10.627	0.011	939	ACSS1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr14	37582956	37603678	20723	*	10.626	0.111	940	FOXA1, TTC6	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, promoters
+chr2	75199103	75201367	2265	*	10.619	0.045	941	TACR1	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, promoters
+chr11	101582243	101584281	2039	*	10.602	0.182	942	TRPC6	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr14	72891477	72895274	3798	*	10.601	0.016	943	DPF3	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr17	45783300	45785937	2638	*	10.599	0.03	944	CRHR1, LINC02210-CRHR1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr17	2049482	2052265	2784	*	10.59	0.029	945	MIR132, MIR212	cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, promoters
+chr6	30006360	30007691	1332	*	10.589	0.052	946	HLA-J, POLR1HASP	cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr11	19344925	19346917	1993	*	10.584	0.019	947		cpg_islands, cpg_shores, intergenic
+chr6	108123212	108124330	1119	*	10.578	0.115	948	OSTM1-AS1, OSTM1	cpg_inter, cpg_shelves, exons, firstexons, introns, lncrna_gencode, promoters
+chr1	35576807	35578453	1647	*	10.572	0.112	949	TFAP2E, TFAP2E-AS1, AC004865.2	cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr8	22133153	22133871	719	*	10.562	0.082	950	HR	5UTRs, cpg_shelves, cpg_shores, exons, firstexons, introns, promoters
+chr22	45866387	45868315	1929	*	10.561	0.052	951		cpg_islands, cpg_shores, intergenic
+chr16	67013367	67014566	1200	*	10.554	0.024	952		cpg_islands, cpg_shores, enhancers_fantom, intergenic
+chr1	27633881	27634833	953	*	10.55	-0.007	953	FGR	cpg_islands, cpg_shores, introns
+chr10	101773040	101776774	3735	*	10.541	0.063	954	FGF8	3UTRs, 5UTRs, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, introns, promoters
+chr1	85047263	85049025	1763	*	10.527	0.09	955	MCOLN3, DNAI3	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr5	159971733	159973164	1432	*	10.509	0.076	956	ADRA1B	3UTRs, cpg_islands, cpg_shores, exons, intergenic, introns
+chr3	134794906	134797844	2939	*	10.493	0.039	957	EPHB1, AC016931.1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr18	37563899	37568706	4808	*	10.477	0.073	958	CELF4, LOC107985118, AC009899.1	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr14	24333448	24335219	1772	*	10.473	0.041	959	ADCY4, AL096870.2	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr7	103988562	103991113	2552	*	10.465	0.057	960	RELN	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr15	52792771	52802011	9241	*	10.46	0.087	961	LOC101928499, AC016044.1	cpg_inter, cpg_islands, cpg_shelves, cpg_shores, exons, intergenic, introns, lncrna_gencode
+chr9	137167703	137170244	2542	*	10.457	0.004	962	GRIN1, LRRC26, MIR3621	3UTRs, 5UTRs, cpg_islands, exons, firstexons, intergenic, introns, promoters
+chr11	109421842	109424256	2415	*	10.456	0.048	963	C11orf87, AP003049.2	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr10	93993407	93994669	1263	*	10.45	0.073	964	PLCE1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr3	54120395	54124341	3947	*	10.449	0.076	965	CACNA2D3, AC115282.1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr12	85272757	85282459	9703	*	10.447	0.117	966	ALX1	5UTRs, cpg_inter, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, promoters
+chr20	36092016	36094399	2384	*	10.44	0.024	967	EPB41L1	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr2	27261784	27265372	3589	*	10.436	0.017	968	SLC30A3	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr18	47243170	47257420	14251	*	10.428	0.118	969	SKOR2	5UTRs, cpg_inter, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, intergenic, introns, promoters
+chr18	23688854	23690440	1587	*	10.415	0.036	970	LAMA3	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr17	76382415	76386123	3709	*	10.414	0.015	971	PRPSAP1, SPHK1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr1	18716420	18717480	1061	*	10.41	0.073	972	PAX7	cpg_inter, introns
+chr2	44949198	44950405	1208	*	10.403	0.179	973		cpg_islands, cpg_shores, enhancers_fantom, intergenic
+chr1	180227909	180240178	12270	*	10.397	0.061	974	LHX4	5UTRs, cpg_inter, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr17	15260328	15263582	3255	*	10.39	0.047	975	PMP22, AC005703.3, AC005703.6	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr17	50634303	50635393	1091	*	10.381	0.043	976	ABCC3	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr10	100659221	100660626	1406	*	10.365	0.091	977		cpg_islands, cpg_shores, intergenic
+chr2	27306358	27307877	1520	*	10.336	0.156	978	TRIM54, UCN	3UTRs, cpg_islands, exons, introns
+chr2	31579868	31581260	1393	*	10.33	0.069	979	SRD5A2	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr19	6587020	6591663	4644	*	10.321	0.078	980	CD70	5UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr6	149450901	149451331	431	*	10.318	0.563	981	ZC3H12D	cpg_islands, exons
+chr12	54043094	54044642	1549	*	10.313	0.111	982	HOXC4	cpg_shelves, introns
+chr4	82797425	82799973	2549	*	10.313	0.026	983	SCD5	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr12	116878511	116883294	4784	*	10.296	0.043	984	HRK	3UTRs, 5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr3	113531944	113534633	2690	*	10.296	-0.026	985	SIDT1	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr20	9514076	9519120	5045	*	10.29	0.04	986	LAMP5, LAMP5-AS1	5UTRs, cpg_islands, cpg_shelves, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr6	50704936	50726392	21457	*	10.288	0.058	987	TFAP2D	5UTRs, cpg_inter, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, intergenic, introns, promoters
+chr13	108494893	108497138	2246	*	10.286	0.049	988		cpg_islands, cpg_shores, intergenic
+chr14	52313439	52316119	2681	*	10.278	-0.004	989	PTGER2	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr4	48482979	48485085	2107	*	10.27	0.165	990	SLC10A4	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr8	38974023	38974816	794	*	10.269	0.33	991	HTRA4	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr5	10333024	10334006	983	*	10.269	0.092	992		cpg_islands, cpg_shores
+chr9	4296978	4300266	3289	*	10.265	0.035	993	GLIS3, GLIS3-AS2, AL162419.1	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr10	120456353	120458001	1649	*	10.252	0.073	994	PLPP4	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters
+chr1	156623815	156626159	2345	*	10.243	0.03	995	HAPLN2	3UTRs, cpg_islands, cpg_shores, exons, firstexons, intergenic, introns, promoters
+chr5	43016484	43020672	4189	*	10.242	0	996	ANXA2R-OT1, LOC105374748, AC025171.1, AC025171.3	cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr2	100818472	100821412	2941	*	10.231	0.068	997	NPAS2	5UTRs, cpg_islands, cpg_shores, enhancers_fantom, exons, firstexons, introns, promoters
+chr2	66573772	66584491	10720	*	10.228	0.015	998	MEIS1, LINC01798	3UTRs, cpg_islands, cpg_shelves, cpg_shores, enhancers_fantom, exons, firstexons, introns, lncrna_gencode, promoters
+chr9	37002224	37003269	1046	*	10.211	0.105	999	LOC105376032, PAX5, AL161781.2	cpg_islands, cpg_shores, exons, firstexons, introns, lncrna_gencode, promoters
+chr4	171812302	171814267	1966	*	10.203	0.13	1000	GALNTL6	5UTRs, cpg_islands, cpg_shores, exons, firstexons, introns, promoters

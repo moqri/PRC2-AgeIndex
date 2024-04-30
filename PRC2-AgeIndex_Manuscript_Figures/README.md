@@ -1,6 +1,6 @@
-**MS Figure Generation **
+# MS Figure Generation 
 
-The following scripts were ran in order:
+### The following scripts were ran in order:
 
 1.	WGBS_Mapping.sh - Mapping was ran on downloaded samples (see Supp.Table 1 in manuscript). DNMTools/Methpipe was ran to generate percentage methylation files (.meth files) used for the following analysis. Users who want the .meth files (or any other files listed in scripts) generated from online datasets can send a request to moqri@stanford.edu or dsimps93@stanford.edu. Meth files generated from fibroblast samples in our study can be downloaded from GSE253985.
 

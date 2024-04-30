@@ -1,4 +1,6 @@
-This example of the PRC2-AgeIndex recreates Figure 6b of the manuscript. 
+# PRC2-AgeIndex Example
+
+### This example of the PRC2-AgeIndex recreates Figure 6b of the manuscript. 
 
 To run this example,  clone the “PRC2AgeIndex_User_Friendly_Example” folder and download NEO.meth.p2.bw p5, p8, as well as NEO.hmr  from GSE253985, to “data/meth/NeoFib” folder. Two public PRC2 ChIP bw files also need to be downloaded to the data/chip folder (see Neo_Fibro_ExampleLMR.ipynb for links). Then run “Neo_Fibro_ExampleLMR.ipynb” to generate neonatal LMRs ordered by PRC2 binding, as well as PRC2-AgeIndex plots. 
 

@@ -6,13 +6,17 @@
 
 2.	LMR_Generation_DNMTools.sh - LMR generation using .meth files to generate a list of low methylated regions for each given tissue type.
 
-3.	LMR_PRC2_Binding.ipynb - Generate PRC2 binding per LMR per sample. LMR coordinates and binding saved in results folder. (t = tcell, s = epidermis, fv = passaged fibroblasts (public), c_* = various cancers, l = mouse liver.)
+3.	LMR_PRC2_Binding.ipynb & LMR_PRC2_Binding_Mouse.ipynb - Generate PRC2 binding per LMR per sample. LMR coordinates and binding saved in results folder. (t = tcell, s = epidermis, fv = passaged fibroblasts (public), c_* = various cancers, l = mouse liver.) LMR_PRC2_Binding_Mouse.ipynb specifically generates the LMRs for scWGBS mouse liver dataset.
 
 4.	SupplementFig2/wg2array.ipynb & Run_Clock_Comparison - Run to generate published epigenetic clock predictions of WGBS data used in the manuscript.
 
-5.	Manuscript_Figures_PRC2-AgeIndex.ipynb - Run to generate plots and results for manuscript.
+5. Figs1-2&4-6_WGBS_Figures_PRC2-AgeIndex.ipynb - Generates plots based on WGBS LMRs and PRC2 binding.
 
-6.	PRC2_Fig6_Diffbind&heatmaps.r - Run to generate LMR heatmaps and PRC2 ChIP heatmaps in Fig 6. 
+6. Fig3a&4c_ArrayLMRPlots.ipynb - Generates LMRs and plots for array data
 
-7.	SupplementFig1/PRC2_Annotation_SuppFigs.R -  Run to generate supplementary figures and analysis of LMR regions. 
+7. Fig3&4_RRBS.ipynb - Generate plots for RRBS data
+
+8. PRC2_Fig6_Diffbind&heatmaps.r - Run to generate LMR heatmaps and PRC2 ChIP heatmaps in Fig 6.
+
+9. SupplementFig1/PRC2_Annotation_SuppFigs.R -  Run to generate supplementary figures and analysis of LMR regions. 
 

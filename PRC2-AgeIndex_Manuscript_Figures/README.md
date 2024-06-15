@@ -16,7 +16,7 @@
 
 7. Fig3&4_RRBS.ipynb - Generate plots for RRBS data
 
-8. PRC2_Fig6_Diffbind&heatmaps.r - Run to generate LMR heatmaps and PRC2 ChIP heatmaps in Fig 6.
+8. Diffbind_heatmaps_Fig_6/PRC2_Fig6_Diffbind&heatmaps.r - Run to generate LMR heatmaps and PRC2 ChIP heatmaps in Fig 6.
 
 9. SupplementFig1/PRC2_Annotation_SuppFigs.R -  Run to generate supplementary figures and analysis of LMR regions. 
 

@@ -6,6 +6,8 @@
 
 2.	LMR_Generation_DNMTools.sh - LMR generation using .meth files to generate a list of low methylated regions for each given tissue type.
 
+2.5. For generating the ChIP files used in Fig 6, Fig6_ChIP_processing.sh was ran. 
+
 3.	LMR_PRC2_Binding.ipynb & LMR_PRC2_Binding_Mouse.ipynb - Generate PRC2 binding per LMR per sample. LMR coordinates and binding saved in results folder. (t = tcell, s = epidermis, fv = passaged fibroblasts (public), c_* = various cancers, l = mouse liver.) LMR_PRC2_Binding_Mouse.ipynb specifically generates the LMRs for scWGBS mouse liver dataset.
 
 4.	SupplementFig2/wg2array.ipynb & Run_Clock_Comparison - Run to generate published epigenetic clock predictions of WGBS data used in the manuscript.

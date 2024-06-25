@@ -12,11 +12,11 @@
 
 4.	SupplementFig2/wg2array.ipynb & Run_Clock_Comparison - Run to generate published epigenetic clock predictions of WGBS data used in the manuscript.
 
-5. Figs1-2&4-6_WGBS_Figures_PRC2-AgeIndex.ipynb - Generates plots based on WGBS LMRs and PRC2 binding.
+5. WGBS_LMRPlots_Figs1-2&4-6_.ipynb - Generates plots based on WGBS LMRs and PRC2 binding.
 
-6. Fig3a&4c_ArrayLMRPlots.ipynb - Generates LMRs and plots for array data
+6. Array_LMRPlots_Fig3a&4c.ipynb - Generates LMRs and plots for array data
 
-7. Fig3&4_RRBS.ipynb - Generate plots for RRBS data
+7. RRBS_LMRPlots_Fig3&4.ipynb - Generate plots for RRBS data
 
 8. Diffbind_heatmaps_Fig_6/PRC2_Fig6_Diffbind&heatmaps.r - Run to generate LMR heatmaps and PRC2 ChIP heatmaps in Fig 6.
 

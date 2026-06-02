@@ -7,3 +7,5 @@ Contains the scripts used to produce the figures used in the manuscript.
 
 ### PRC2-AgeIndex_User_Friendly_Example 
 Contains an example for applying the PRC2-AgeIndex.
+
+Link to the paper: https://pmc.ncbi.nlm.nih.gov/articles/PMC11250797/
